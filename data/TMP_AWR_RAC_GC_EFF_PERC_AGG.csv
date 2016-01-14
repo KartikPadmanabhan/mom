@@ -1,0 +1,1390 @@
+site_id|config_id|run_id|stat_id|stat_name|stat_value|start_time
+37|1|2|266338|Buffer access -  local cache %|93.46|06-OCT-14 08.00.00.000000 AM
+37|1|2|266339|Buffer access - remote cache %|1.57|06-OCT-14 08.00.00.000000 AM
+37|1|2|266340|Buffer access -	      disk %|4.97|06-OCT-14 08.00.00.000000 AM
+37|1|1|266340|Buffer access -	      disk %|5.11|03-OCT-14 08.00.00.000000 AM
+37|1|1|266338|Buffer access -  local cache %|93.24|03-OCT-14 08.00.00.000000 AM
+37|1|1|266339|Buffer access - remote cache %|1.65|03-OCT-14 08.00.00.000000 AM
+37|1|6|266340|Buffer access -	      disk %|4.32|10-OCT-14 08.00.00.000000 AM
+37|1|6|266338|Buffer access -  local cache %|94.12|10-OCT-14 08.00.00.000000 AM
+37|1|6|266339|Buffer access - remote cache %|1.57|10-OCT-14 08.00.00.000000 AM
+37|1|3|266340|Buffer access -	      disk %|3.99|07-OCT-14 08.00.00.000000 AM
+37|1|3|266338|Buffer access -  local cache %|94.6|07-OCT-14 08.00.00.000000 AM
+37|1|3|266339|Buffer access - remote cache %|1.4|07-OCT-14 08.00.00.000000 AM
+37|1|5|266340|Buffer access -	      disk %|4.66|09-OCT-14 08.00.00.000000 AM
+37|1|5|266339|Buffer access - remote cache %|1.41|09-OCT-14 08.00.00.000000 AM
+37|1|5|266338|Buffer access -  local cache %|93.93|09-OCT-14 08.00.00.000000 AM
+37|1|4|266340|Buffer access -	      disk %|2.99|08-OCT-14 08.00.00.000000 AM
+37|1|4|266338|Buffer access -  local cache %|95.56|08-OCT-14 08.00.00.000000 AM
+37|1|4|266339|Buffer access - remote cache %|1.46|08-OCT-14 08.00.00.000000 AM
+37|1|7|266340|Buffer access -	      disk %|4.21|13-OCT-14 08.00.00.000000 AM
+37|1|7|266338|Buffer access -  local cache %|94.15|13-OCT-14 08.00.00.000000 AM
+37|1|7|266339|Buffer access - remote cache %|1.64|13-OCT-14 08.00.00.000000 AM
+37|1|11|266338|Buffer access -	local cache %|93.27|17-OCT-14 08.00.00.000000 AM
+37|1|11|266340|Buffer access -	       disk %|4.79|17-OCT-14 08.00.00.000000 AM
+37|1|11|266339|Buffer access - remote cache %|1.94|17-OCT-14 08.00.00.000000 AM
+37|1|12|266339|Buffer access - remote cache %|1.65|20-OCT-14 08.00.00.000000 AM
+37|1|12|266340|Buffer access -	       disk %|4.41|20-OCT-14 08.00.00.000000 AM
+37|1|12|266338|Buffer access -	local cache %|93.94|20-OCT-14 08.00.00.000000 AM
+37|1|9|266338|Buffer access -  local cache %|94.66|15-OCT-14 08.00.00.000000 AM
+37|1|9|266339|Buffer access - remote cache %|1.83|15-OCT-14 08.00.00.000000 AM
+37|1|9|266340|Buffer access -	      disk %|3.5|15-OCT-14 08.00.00.000000 AM
+37|1|8|266338|Buffer access -  local cache %|94.33|14-OCT-14 08.00.00.000000 AM
+37|1|8|266340|Buffer access -	      disk %|3.74|14-OCT-14 08.00.00.000000 AM
+37|1|8|266339|Buffer access - remote cache %|1.93|14-OCT-14 08.00.00.000000 AM
+37|1|10|266338|Buffer access -	local cache %|94.09|16-OCT-14 08.00.00.000000 AM
+37|1|10|266340|Buffer access -	       disk %|4.07|16-OCT-14 08.00.00.000000 AM
+37|1|10|266339|Buffer access - remote cache %|1.85|16-OCT-14 08.00.00.000000 AM
+37|1|17|266339|Buffer access - remote cache %|1.78|27-OCT-14 08.00.00.000000 AM
+37|1|17|266338|Buffer access -	local cache %|93.98|27-OCT-14 08.00.00.000000 AM
+37|1|17|266340|Buffer access -	       disk %|4.23|27-OCT-14 08.00.00.000000 AM
+37|1|16|266340|Buffer access -	       disk %|4.68|24-OCT-14 08.00.00.000000 AM
+37|1|16|266338|Buffer access -	local cache %|93.59|24-OCT-14 08.00.00.000000 AM
+37|1|16|266339|Buffer access - remote cache %|1.73|24-OCT-14 08.00.00.000000 AM
+37|1|13|266340|Buffer access -	       disk %|3.83|21-OCT-14 08.00.00.000000 AM
+37|1|13|266339|Buffer access - remote cache %|1.62|21-OCT-14 08.00.00.000000 AM
+37|1|13|266338|Buffer access -	local cache %|94.55|21-OCT-14 08.00.00.000000 AM
+37|1|14|266339|Buffer access - remote cache %|1.61|22-OCT-14 08.00.00.000000 AM
+37|1|14|266338|Buffer access -	local cache %|94.29|22-OCT-14 08.00.00.000000 AM
+37|1|14|266340|Buffer access -	       disk %|4.1|22-OCT-14 08.00.00.000000 AM
+37|1|15|266338|Buffer access -	local cache %|93.47|23-OCT-14 08.00.00.000000 AM
+37|1|15|266339|Buffer access - remote cache %|1.67|23-OCT-14 08.00.00.000000 AM
+37|1|15|266340|Buffer access -	       disk %|4.85|23-OCT-14 08.00.00.000000 AM
+37|1|21|266339|Buffer access - remote cache %|1.65|31-OCT-14 08.00.00.000000 AM
+37|1|21|266340|Buffer access -	       disk %|4.7|31-OCT-14 08.00.00.000000 AM
+37|1|21|266338|Buffer access -	local cache %|93.65|31-OCT-14 08.00.00.000000 AM
+37|1|19|266339|Buffer access - remote cache %|1.63|29-OCT-14 08.00.00.000000 AM
+37|1|19|266338|Buffer access -	local cache %|94.45|29-OCT-14 08.00.00.000000 AM
+37|1|19|266340|Buffer access -	       disk %|3.92|29-OCT-14 08.00.00.000000 AM
+37|1|18|266339|Buffer access - remote cache %|1.66|28-OCT-14 08.00.00.000000 AM
+37|1|18|266340|Buffer access -	       disk %|4.1|28-OCT-14 08.00.00.000000 AM
+37|1|18|266338|Buffer access -	local cache %|94.24|28-OCT-14 08.00.00.000000 AM
+37|1|20|266338|Buffer access -	local cache %|94.25|30-OCT-14 08.00.00.000000 AM
+37|1|20|266339|Buffer access - remote cache %|1.58|30-OCT-14 08.00.00.000000 AM
+37|1|20|266340|Buffer access -	       disk %|4.16|30-OCT-14 08.00.00.000000 AM
+37|1|22|266338|Buffer access -	local cache %|93.8|03-NOV-14 08.00.00.000000 AM
+37|1|22|266340|Buffer access -	       disk %|4.49|03-NOV-14 08.00.00.000000 AM
+37|1|22|266339|Buffer access - remote cache %|1.72|03-NOV-14 08.00.00.000000 AM
+37|1|24|266338|Buffer access -	local cache %|94.43|05-NOV-14 08.00.00.000000 AM
+37|1|24|266340|Buffer access -	       disk %|3.96|05-NOV-14 08.00.00.000000 AM
+37|1|24|266339|Buffer access - remote cache %|1.61|05-NOV-14 08.00.00.000000 AM
+37|1|25|266338|Buffer access -	local cache %|94.24|06-NOV-14 08.00.00.000000 AM
+37|1|25|266339|Buffer access - remote cache %|1.6|06-NOV-14 08.00.00.000000 AM
+37|1|25|266340|Buffer access -	       disk %|4.16|06-NOV-14 08.00.00.000000 AM
+37|1|23|266339|Buffer access - remote cache %|1.63|04-NOV-14 08.00.00.000000 AM
+37|1|23|266340|Buffer access -	       disk %|3.95|04-NOV-14 08.00.00.000000 AM
+37|1|23|266338|Buffer access -	local cache %|94.41|04-NOV-14 08.00.00.000000 AM
+37|1|26|266338|Buffer access -	local cache %|93.78|10-NOV-14 08.00.00.000000 AM
+37|1|26|266339|Buffer access - remote cache %|1.79|10-NOV-14 08.00.00.000000 AM
+37|1|26|266340|Buffer access -	       disk %|4.44|10-NOV-14 08.00.00.000000 AM
+37|1|27|266338|Buffer access -	local cache %|94|11-NOV-14 08.00.00.000000 AM
+37|1|27|266339|Buffer access - remote cache %|1.61|11-NOV-14 08.00.00.000000 AM
+37|1|27|266340|Buffer access -	       disk %|4.39|11-NOV-14 08.00.00.000000 AM
+37|1|28|266338|Buffer access -	local cache %|94.14|12-NOV-14 08.00.00.000000 AM
+37|1|28|266340|Buffer access -	       disk %|4.3|12-NOV-14 08.00.00.000000 AM
+37|1|28|266339|Buffer access - remote cache %|1.56|12-NOV-14 08.00.00.000000 AM
+37|1|29|266338|Buffer access -	local cache %|94.38|13-NOV-14 08.00.00.000000 AM
+37|1|29|266339|Buffer access - remote cache %|1.57|13-NOV-14 08.00.00.000000 AM
+37|1|29|266340|Buffer access -	       disk %|4.05|13-NOV-14 08.00.00.000000 AM
+37|1|30|266339|Buffer access - remote cache %|1.64|14-NOV-14 08.00.00.000000 AM
+37|1|30|266340|Buffer access -	       disk %|4.39|14-NOV-14 08.00.00.000000 AM
+37|1|30|266338|Buffer access -	local cache %|93.97|14-NOV-14 08.00.00.000000 AM
+37|1|31|266339|Buffer access - remote cache %|1.72|17-NOV-14 08.00.00.000000 AM
+37|1|31|266340|Buffer access -	       disk %|4.56|17-NOV-14 08.00.00.000000 AM
+37|1|31|266338|Buffer access -	local cache %|93.71|17-NOV-14 08.00.00.000000 AM
+37|1|35|266338|Buffer access -	local cache %|93.85|21-NOV-14 08.00.00.000000 AM
+37|1|35|266340|Buffer access -	       disk %|4.46|21-NOV-14 08.00.00.000000 AM
+37|1|35|266339|Buffer access - remote cache %|1.69|21-NOV-14 08.00.00.000000 AM
+37|1|36|266339|Buffer access - remote cache %|1.64|24-NOV-14 08.00.00.000000 AM
+37|1|36|266340|Buffer access -	       disk %|4.79|24-NOV-14 08.00.00.000000 AM
+37|1|36|266338|Buffer access -	local cache %|93.57|24-NOV-14 08.00.00.000000 AM
+37|1|32|266340|Buffer access -	       disk %|3.16|18-NOV-14 08.00.00.000000 AM
+37|1|32|266338|Buffer access -	local cache %|95.17|18-NOV-14 08.00.00.000000 AM
+37|1|32|266339|Buffer access - remote cache %|1.67|18-NOV-14 08.00.00.000000 AM
+37|1|33|266338|Buffer access -	local cache %|94.57|19-NOV-14 08.00.00.000000 AM
+37|1|33|266340|Buffer access -	       disk %|3.8|19-NOV-14 08.00.00.000000 AM
+37|1|33|266339|Buffer access - remote cache %|1.64|19-NOV-14 08.00.00.000000 AM
+37|1|34|266338|Buffer access -	local cache %|94.68|20-NOV-14 08.00.00.000000 AM
+37|1|34|266339|Buffer access - remote cache %|1.57|20-NOV-14 08.00.00.000000 AM
+37|1|34|266340|Buffer access -	       disk %|3.75|20-NOV-14 08.00.00.000000 AM
+37|1|37|266339|Buffer access - remote cache %|1.58|25-NOV-14 08.00.00.000000 AM
+37|1|37|266340|Buffer access -	       disk %|4.11|25-NOV-14 08.00.00.000000 AM
+37|1|37|266338|Buffer access -	local cache %|94.31|25-NOV-14 08.00.00.000000 AM
+37|1|38|266338|Buffer access -	local cache %|94.1|26-NOV-14 08.00.00.000000 AM
+37|1|38|266339|Buffer access - remote cache %|1.6|26-NOV-14 08.00.00.000000 AM
+37|1|38|266340|Buffer access -	       disk %|4.3|26-NOV-14 08.00.00.000000 AM
+37|1|39|266339|Buffer access - remote cache %|1.69|27-NOV-14 08.00.00.000000 AM
+37|1|39|266340|Buffer access -	       disk %|4.02|27-NOV-14 08.00.00.000000 AM
+37|1|39|266338|Buffer access -	local cache %|94.29|27-NOV-14 08.00.00.000000 AM
+37|1|43|266338|Buffer access -	local cache %|94|05-DEC-14 08.00.00.000000 AM
+37|1|43|266340|Buffer access -	       disk %|4.38|05-DEC-14 08.00.00.000000 AM
+37|1|43|266339|Buffer access - remote cache %|1.63|05-DEC-14 08.00.00.000000 AM
+37|1|44|266338|Buffer access -	local cache %|93.9|08-DEC-14 08.00.00.000000 AM
+37|1|44|266339|Buffer access - remote cache %|1.59|08-DEC-14 08.00.00.000000 AM
+37|1|44|266340|Buffer access -	       disk %|4.51|08-DEC-14 08.00.00.000000 AM
+37|1|41|266338|Buffer access -	local cache %|93.92|03-DEC-14 08.00.00.000000 AM
+37|1|41|266339|Buffer access - remote cache %|1.6|03-DEC-14 08.00.00.000000 AM
+37|1|41|266340|Buffer access -	       disk %|4.48|03-DEC-14 08.00.00.000000 AM
+37|1|42|266339|Buffer access - remote cache %|1.54|04-DEC-14 08.00.00.000000 AM
+37|1|42|266338|Buffer access -	local cache %|94.07|04-DEC-14 08.00.00.000000 AM
+37|1|42|266340|Buffer access -	       disk %|4.39|04-DEC-14 08.00.00.000000 AM
+37|1|40|266339|Buffer access - remote cache %|1.58|02-DEC-14 08.00.00.000000 AM
+37|1|40|266338|Buffer access -	local cache %|93.72|02-DEC-14 08.00.00.000000 AM
+37|1|40|266340|Buffer access -	       disk %|4.7|02-DEC-14 08.00.00.000000 AM
+37|1|47|266338|Buffer access -	local cache %|93.05|12-DEC-14 08.00.00.000000 AM
+37|1|47|266339|Buffer access - remote cache %|1.6|12-DEC-14 08.00.00.000000 AM
+37|1|47|266340|Buffer access -	       disk %|5.36|12-DEC-14 08.00.00.000000 AM
+37|1|45|266338|Buffer access -	local cache %|94.26|09-DEC-14 08.00.00.000000 AM
+37|1|45|266340|Buffer access -	       disk %|4.17|09-DEC-14 08.00.00.000000 AM
+37|1|45|266339|Buffer access - remote cache %|1.57|09-DEC-14 08.00.00.000000 AM
+37|1|48|266339|Buffer access - remote cache %|1.68|15-DEC-14 08.00.00.000000 AM
+37|1|48|266340|Buffer access -	       disk %|4.34|15-DEC-14 08.00.00.000000 AM
+37|1|48|266338|Buffer access -	local cache %|93.99|15-DEC-14 08.00.00.000000 AM
+37|1|46|266338|Buffer access -	local cache %|94.02|11-DEC-14 08.00.00.000000 AM
+37|1|46|266339|Buffer access - remote cache %|1.57|11-DEC-14 08.00.00.000000 AM
+37|1|46|266340|Buffer access -	       disk %|4.42|11-DEC-14 08.00.00.000000 AM
+37|1|53|266338|Buffer access -	local cache %|94.08|22-DEC-14 08.00.00.000000 AM
+37|1|53|266339|Buffer access - remote cache %|1.6|22-DEC-14 08.00.00.000000 AM
+37|1|53|266340|Buffer access -	       disk %|4.32|22-DEC-14 08.00.00.000000 AM
+37|1|49|266338|Buffer access -	local cache %|93.86|16-DEC-14 08.00.00.000000 AM
+37|1|49|266340|Buffer access -	       disk %|4.54|16-DEC-14 08.00.00.000000 AM
+37|1|49|266339|Buffer access - remote cache %|1.6|16-DEC-14 08.00.00.000000 AM
+37|1|50|266338|Buffer access -	local cache %|94.47|17-DEC-14 08.00.00.000000 AM
+37|1|50|266340|Buffer access -	       disk %|4.01|17-DEC-14 08.00.00.000000 AM
+37|1|50|266339|Buffer access - remote cache %|1.51|17-DEC-14 08.00.00.000000 AM
+37|1|51|266338|Buffer access -	local cache %|93.97|18-DEC-14 08.00.00.000000 AM
+37|1|51|266340|Buffer access -	       disk %|4.5|18-DEC-14 08.00.00.000000 AM
+37|1|51|266339|Buffer access - remote cache %|1.54|18-DEC-14 08.00.00.000000 AM
+37|1|52|266339|Buffer access - remote cache %|1.67|19-DEC-14 08.00.00.000000 AM
+37|1|52|266338|Buffer access -	local cache %|94.05|19-DEC-14 08.00.00.000000 AM
+37|1|52|266340|Buffer access -	       disk %|4.28|19-DEC-14 08.00.00.000000 AM
+37|1|55|266340|Buffer access -	       disk %|4.8|24-DEC-14 08.00.00.000000 AM
+37|1|55|266339|Buffer access - remote cache %|1.82|24-DEC-14 08.00.00.000000 AM
+37|1|55|266338|Buffer access -	local cache %|93.38|24-DEC-14 08.00.00.000000 AM
+37|1|57|266340|Buffer access -	       disk %|5.46|29-DEC-14 08.00.00.000000 AM
+37|1|57|266339|Buffer access - remote cache %|1.67|29-DEC-14 08.00.00.000000 AM
+37|1|57|266338|Buffer access -	local cache %|92.87|29-DEC-14 08.00.00.000000 AM
+37|1|56|266340|Buffer access -	       disk %|5.71|26-DEC-14 08.00.00.000000 AM
+37|1|56|266338|Buffer access -	local cache %|92.51|26-DEC-14 08.00.00.000000 AM
+37|1|56|266339|Buffer access - remote cache %|1.78|26-DEC-14 08.00.00.000000 AM
+37|1|54|266339|Buffer access - remote cache %|1.57|23-DEC-14 08.00.00.000000 AM
+37|1|54|266340|Buffer access -	       disk %|5.06|23-DEC-14 08.00.00.000000 AM
+37|1|54|266338|Buffer access -	local cache %|93.37|23-DEC-14 08.00.00.000000 AM
+37|1|58|266339|Buffer access - remote cache %|1.7|30-DEC-14 08.00.00.000000 AM
+37|1|58|266338|Buffer access -	local cache %|92.81|30-DEC-14 08.00.00.000000 AM
+37|1|58|266340|Buffer access -	       disk %|5.5|30-DEC-14 08.00.00.000000 AM
+37|1|59|266339|Buffer access - remote cache %|1.8|31-DEC-14 08.00.00.000000 AM
+37|1|59|266340|Buffer access -	       disk %|5.23|31-DEC-14 08.00.00.000000 AM
+37|1|59|266338|Buffer access -	local cache %|92.97|31-DEC-14 08.00.00.000000 AM
+37|1|60|266340|Buffer access -	       disk %|4.32|01-JAN-15 08.00.00.000000 AM
+37|1|60|266338|Buffer access -	local cache %|94.11|01-JAN-15 08.00.00.000000 AM
+37|1|60|266339|Buffer access - remote cache %|1.58|01-JAN-15 08.00.00.000000 AM
+37|1|61|266338|Buffer access -	local cache %|92.27|02-JAN-15 08.00.00.000000 AM
+37|1|61|266340|Buffer access -	       disk %|6.05|02-JAN-15 08.00.00.000000 AM
+37|1|61|266339|Buffer access - remote cache %|1.69|02-JAN-15 08.00.00.000000 AM
+37|1|62|266339|Buffer access - remote cache %|1.72|05-JAN-15 08.00.00.000000 AM
+37|1|62|266338|Buffer access -	local cache %|93.35|05-JAN-15 08.00.00.000000 AM
+37|1|62|266340|Buffer access -	       disk %|4.93|05-JAN-15 08.00.00.000000 AM
+37|1|67|266338|Buffer access -	local cache %|93.55|12-JAN-15 08.00.00.000000 AM
+37|1|67|266340|Buffer access -	       disk %|4.82|12-JAN-15 08.00.00.000000 AM
+37|1|67|266339|Buffer access - remote cache %|1.62|12-JAN-15 08.00.00.000000 AM
+37|1|64|266339|Buffer access - remote cache %|1.57|07-JAN-15 08.00.00.000000 AM
+37|1|64|266340|Buffer access -	       disk %|4.33|07-JAN-15 08.00.00.000000 AM
+37|1|64|266338|Buffer access -	local cache %|94.1|07-JAN-15 08.00.00.000000 AM
+37|1|65|266338|Buffer access -	local cache %|93.95|08-JAN-15 08.00.00.000000 AM
+37|1|65|266339|Buffer access - remote cache %|1.56|08-JAN-15 08.00.00.000000 AM
+37|1|65|266340|Buffer access -	       disk %|4.49|08-JAN-15 08.00.00.000000 AM
+37|1|66|266340|Buffer access -	       disk %|4.99|09-JAN-15 08.00.00.000000 AM
+37|1|66|266339|Buffer access - remote cache %|1.7|09-JAN-15 08.00.00.000000 AM
+37|1|66|266338|Buffer access -	local cache %|93.31|09-JAN-15 08.00.00.000000 AM
+37|1|63|266338|Buffer access -	local cache %|94.13|06-JAN-15 08.00.00.000000 AM
+37|1|63|266340|Buffer access -	       disk %|4.3|06-JAN-15 08.00.00.000000 AM
+37|1|63|266339|Buffer access - remote cache %|1.57|06-JAN-15 08.00.00.000000 AM
+37|1|71|266339|Buffer access - remote cache %|1.62|19-JAN-15 08.00.00.000000 AM
+37|1|71|266340|Buffer access -	       disk %|3.02|19-JAN-15 08.00.00.000000 AM
+37|1|71|266338|Buffer access -	local cache %|95.36|19-JAN-15 08.00.00.000000 AM
+37|1|68|266339|Buffer access - remote cache %|1.59|13-JAN-15 08.00.00.000000 AM
+37|1|68|266340|Buffer access -	       disk %|4.23|13-JAN-15 08.00.00.000000 AM
+37|1|68|266338|Buffer access -	local cache %|94.18|13-JAN-15 08.00.00.000000 AM
+37|1|69|266340|Buffer access -	       disk %|3.74|14-JAN-15 08.00.00.000000 AM
+37|1|69|266338|Buffer access -	local cache %|94.69|14-JAN-15 08.00.00.000000 AM
+37|1|69|266339|Buffer access - remote cache %|1.57|14-JAN-15 08.00.00.000000 AM
+37|1|70|266338|Buffer access -	local cache %|94.52|15-JAN-15 08.00.00.000000 AM
+37|1|70|266339|Buffer access - remote cache %|1.62|15-JAN-15 08.00.00.000000 AM
+37|1|70|266340|Buffer access -	       disk %|3.86|15-JAN-15 08.00.00.000000 AM
+37|1|77|266340|Buffer access -	       disk %|3.16|26-JAN-15 08.00.00.000000 AM
+37|1|77|266338|Buffer access -	local cache %|94.09|26-JAN-15 08.00.00.000000 AM
+37|1|77|266339|Buffer access - remote cache %|2.76|26-JAN-15 08.00.00.000000 AM
+37|1|75|266339|Buffer access - remote cache %|1.88|22-JAN-15 08.00.00.000000 AM
+37|1|75|266340|Buffer access -	       disk %|3.31|22-JAN-15 08.00.00.000000 AM
+37|1|75|266338|Buffer access -	local cache %|94.82|22-JAN-15 08.00.00.000000 AM
+37|1|76|266340|Buffer access -	       disk %|3.51|23-JAN-15 08.00.00.000000 AM
+37|1|76|266339|Buffer access - remote cache %|1.96|23-JAN-15 08.00.00.000000 AM
+37|1|76|266338|Buffer access -	local cache %|94.53|23-JAN-15 08.00.00.000000 AM
+37|1|72|266338|Buffer access -	local cache %|94.68|20-JAN-15 08.00.00.000000 AM
+37|1|72|266340|Buffer access -	       disk %|3.16|20-JAN-15 08.00.00.000000 AM
+37|1|72|266339|Buffer access - remote cache %|2.17|20-JAN-15 08.00.00.000000 AM
+37|1|73|266338|Buffer access -	local cache %|94.99|20-JAN-15 10.00.00.000000 PM
+37|1|73|266340|Buffer access -	       disk %|3.1|20-JAN-15 10.00.00.000000 PM
+37|1|73|266339|Buffer access - remote cache %|1.91|20-JAN-15 10.00.00.000000 PM
+37|1|74|266339|Buffer access - remote cache %|1.77|21-JAN-15 10.00.00.000000 PM
+37|1|74|266338|Buffer access -	local cache %|94.84|21-JAN-15 10.00.00.000000 PM
+37|1|74|266340|Buffer access -	       disk %|3.39|21-JAN-15 10.00.00.000000 PM
+37|1|79|266338|Buffer access -	local cache %|94.15|27-JAN-15 08.00.00.000000 AM
+37|1|79|266339|Buffer access - remote cache %|2.8|27-JAN-15 08.00.00.000000 AM
+37|1|79|266340|Buffer access -	       disk %|3.05|27-JAN-15 08.00.00.000000 AM
+37|1|80|266338|Buffer access -	local cache %|93.62|28-JAN-15 01.00.00.000000 AM
+37|1|80|266340|Buffer access -	       disk %|3.53|28-JAN-15 01.00.00.000000 AM
+37|1|80|266339|Buffer access - remote cache %|2.85|28-JAN-15 01.00.00.000000 AM
+37|1|81|266338|Buffer access -	local cache %|93.9|28-JAN-15 08.00.00.000000 AM
+37|1|81|266340|Buffer access -	       disk %|3.15|28-JAN-15 08.00.00.000000 AM
+37|1|81|266339|Buffer access - remote cache %|2.95|28-JAN-15 08.00.00.000000 AM
+37|1|82|266339|Buffer access - remote cache %|2.81|29-JAN-15 01.00.00.000000 AM
+37|1|82|266338|Buffer access -	local cache %|93.71|29-JAN-15 01.00.00.000000 AM
+37|1|82|266340|Buffer access -	       disk %|3.48|29-JAN-15 01.00.00.000000 AM
+37|1|83|266340|Buffer access -	       disk %|3.18|29-JAN-15 08.00.00.000000 AM
+37|1|83|266338|Buffer access -	local cache %|93.82|29-JAN-15 08.00.00.000000 AM
+37|1|83|266339|Buffer access - remote cache %|3|29-JAN-15 08.00.00.000000 AM
+37|1|84|266338|Buffer access -	local cache %|93.5|30-JAN-15 01.00.00.000000 AM
+37|1|84|266340|Buffer access -	       disk %|3.53|30-JAN-15 01.00.00.000000 AM
+37|1|84|266339|Buffer access - remote cache %|2.97|30-JAN-15 01.00.00.000000 AM
+37|1|85|266339|Buffer access - remote cache %|2.98|30-JAN-15 08.00.00.000000 AM
+37|1|85|266340|Buffer access -	       disk %|3.27|30-JAN-15 08.00.00.000000 AM
+37|1|85|266338|Buffer access -	local cache %|93.74|30-JAN-15 08.00.00.000000 AM
+37|1|86|266338|Buffer access -	local cache %|93.89|31-JAN-15 01.00.00.000000 AM
+37|1|86|266340|Buffer access -	       disk %|4.21|31-JAN-15 01.00.00.000000 AM
+37|1|86|266339|Buffer access - remote cache %|1.9|31-JAN-15 01.00.00.000000 AM
+37|1|87|266339|Buffer access - remote cache %|2.57|02-FEB-15 01.00.00.000000 AM
+37|1|87|266340|Buffer access -	       disk %|3.44|02-FEB-15 01.00.00.000000 AM
+37|1|87|266338|Buffer access -	local cache %|93.99|02-FEB-15 01.00.00.000000 AM
+37|1|88|266339|Buffer access - remote cache %|2.53|02-FEB-15 08.00.00.000000 AM
+37|1|88|266340|Buffer access -	       disk %|3.05|02-FEB-15 08.00.00.000000 AM
+37|1|88|266338|Buffer access -	local cache %|94.42|02-FEB-15 08.00.00.000000 AM
+37|1|89|266340|Buffer access -	       disk %|3.32|02-FEB-15 10.00.00.000000 PM
+37|1|89|266338|Buffer access -	local cache %|94.48|02-FEB-15 10.00.00.000000 PM
+37|1|89|266339|Buffer access - remote cache %|2.2|02-FEB-15 10.00.00.000000 PM
+37|1|78|266340|Buffer access -	       disk %|3.44|27-JAN-15 01.00.00.000000 AM
+37|1|78|266339|Buffer access - remote cache %|2.85|27-JAN-15 01.00.00.000000 AM
+37|1|78|266338|Buffer access -	local cache %|93.72|27-JAN-15 01.00.00.000000 AM
+37|1|90|266340|Buffer access -	       disk %|3.96|03-FEB-15 10.00.00.000000 PM
+37|1|90|266338|Buffer access -	local cache %|94.19|03-FEB-15 10.00.00.000000 PM
+37|1|90|266339|Buffer access - remote cache %|1.85|03-FEB-15 10.00.00.000000 PM
+37|1|91|266340|Buffer access -	       disk %|3.52|04-FEB-15 08.00.00.000000 AM
+37|1|91|266339|Buffer access - remote cache %|1.84|04-FEB-15 08.00.00.000000 AM
+37|1|91|266338|Buffer access -	local cache %|94.65|04-FEB-15 08.00.00.000000 AM
+37|1|92|266339|Buffer access - remote cache %|2.12|05-FEB-15 01.00.00.000000 AM
+37|1|92|266338|Buffer access -	local cache %|94.28|05-FEB-15 01.00.00.000000 AM
+37|1|92|266340|Buffer access -	       disk %|3.6|05-FEB-15 01.00.00.000000 AM
+37|1|93|266339|Buffer access - remote cache %|2.22|06-FEB-15 08.00.00.000000 AM
+37|1|93|266338|Buffer access -	local cache %|94.11|06-FEB-15 08.00.00.000000 AM
+37|1|93|266340|Buffer access -	       disk %|3.67|06-FEB-15 08.00.00.000000 AM
+37|1|94|266339|Buffer access - remote cache %|2.69|09-FEB-15 08.00.00.000000 AM
+37|1|94|266340|Buffer access -	       disk %|3.24|09-FEB-15 08.00.00.000000 AM
+37|1|94|266338|Buffer access -	local cache %|94.07|09-FEB-15 08.00.00.000000 AM
+37|1|105|266339|Buffer access - remote cache %|2.58|16-FEB-15 08.00.00.000000 AM
+37|1|105|266340|Buffer access - 	disk %|3.07|16-FEB-15 08.00.00.000000 AM
+37|1|105|266338|Buffer access -  local cache %|94.35|16-FEB-15 08.00.00.000000 AM
+37|1|95|266339|Buffer access - remote cache %|3|10-FEB-15 08.00.00.000000 AM
+37|1|95|266338|Buffer access -	local cache %|93.88|10-FEB-15 08.00.00.000000 AM
+37|1|95|266340|Buffer access -	       disk %|3.11|10-FEB-15 08.00.00.000000 AM
+37|1|97|266339|Buffer access - remote cache %|3.09|11-FEB-15 08.00.00.000000 AM
+37|1|97|266340|Buffer access -	       disk %|3.13|11-FEB-15 08.00.00.000000 AM
+37|1|97|266338|Buffer access -	local cache %|93.77|11-FEB-15 08.00.00.000000 AM
+37|1|96|266340|Buffer access -	       disk %|3.51|11-FEB-15 10.00.00.000000 PM
+37|1|96|266338|Buffer access -	local cache %|93.74|11-FEB-15 10.00.00.000000 PM
+37|1|96|266339|Buffer access - remote cache %|2.75|11-FEB-15 10.00.00.000000 PM
+37|1|98|266338|Buffer access -	local cache %|93.33|12-FEB-15 01.00.00.000000 AM
+37|1|98|266339|Buffer access - remote cache %|3.1|12-FEB-15 01.00.00.000000 AM
+37|1|98|266340|Buffer access -	       disk %|3.57|12-FEB-15 01.00.00.000000 AM
+37|1|100|266340|Buffer access - 	disk %|3.11|12-FEB-15 08.00.00.000000 AM
+37|1|100|266339|Buffer access - remote cache %|3.2|12-FEB-15 08.00.00.000000 AM
+37|1|100|266338|Buffer access -  local cache %|93.69|12-FEB-15 08.00.00.000000 AM
+37|1|99|266339|Buffer access - remote cache %|2.39|12-FEB-15 10.00.00.000000 PM
+37|1|99|266340|Buffer access -	       disk %|3.8|12-FEB-15 10.00.00.000000 PM
+37|1|99|266338|Buffer access -	local cache %|93.81|12-FEB-15 10.00.00.000000 PM
+37|1|101|266338|Buffer access -  local cache %|93.66|13-FEB-15 08.00.00.000000 AM
+37|1|101|266339|Buffer access - remote cache %|3.14|13-FEB-15 08.00.00.000000 AM
+37|1|101|266340|Buffer access - 	disk %|3.21|13-FEB-15 08.00.00.000000 AM
+37|1|102|266338|Buffer access -  local cache %|93.84|15-FEB-15 10.00.00.000000 PM
+37|1|102|266339|Buffer access - remote cache %|2.48|15-FEB-15 10.00.00.000000 PM
+37|1|102|266340|Buffer access - 	disk %|3.68|15-FEB-15 10.00.00.000000 PM
+37|1|103|266338|Buffer access -  local cache %|94.1|16-FEB-15 01.00.00.000000 AM
+37|1|103|266339|Buffer access - remote cache %|2.51|16-FEB-15 01.00.00.000000 AM
+37|1|103|266340|Buffer access - 	disk %|3.39|16-FEB-15 01.00.00.000000 AM
+37|1|104|266339|Buffer access - remote cache %|2.56|16-FEB-15 10.00.00.000000 PM
+37|1|104|266338|Buffer access -  local cache %|93.61|16-FEB-15 10.00.00.000000 PM
+37|1|104|266340|Buffer access - 	disk %|3.83|16-FEB-15 10.00.00.000000 PM
+37|1|106|266339|Buffer access - remote cache %|2.61|17-FEB-15 01.00.00.000000 AM
+37|1|106|266338|Buffer access -  local cache %|93.79|17-FEB-15 01.00.00.000000 AM
+37|1|106|266340|Buffer access - 	disk %|3.6|17-FEB-15 01.00.00.000000 AM
+37|1|108|266338|Buffer access -  local cache %|94.25|17-FEB-15 08.00.00.000000 AM
+37|1|108|266339|Buffer access - remote cache %|2.69|17-FEB-15 08.00.00.000000 AM
+37|1|108|266340|Buffer access - 	disk %|3.06|17-FEB-15 08.00.00.000000 AM
+37|1|107|266338|Buffer access -  local cache %|93.65|17-FEB-15 10.00.00.000000 PM
+37|1|107|266340|Buffer access - 	disk %|3.95|17-FEB-15 10.00.00.000000 PM
+37|1|107|266339|Buffer access - remote cache %|2.4|17-FEB-15 10.00.00.000000 PM
+37|1|110|266340|Buffer access - 	disk %|3.13|18-FEB-15 08.00.00.000000 AM
+37|1|110|266339|Buffer access - remote cache %|2.72|18-FEB-15 08.00.00.000000 AM
+37|1|110|266338|Buffer access -  local cache %|94.15|18-FEB-15 08.00.00.000000 AM
+37|1|112|266338|Buffer access -  local cache %|94.52|19-FEB-15 08.00.00.000000 AM
+37|1|112|266339|Buffer access - remote cache %|2.65|19-FEB-15 08.00.00.000000 AM
+37|1|112|266340|Buffer access - 	disk %|2.83|19-FEB-15 08.00.00.000000 AM
+37|1|111|266340|Buffer access - 	disk %|3.69|19-FEB-15 10.00.00.000000 PM
+37|1|111|266339|Buffer access - remote cache %|2.61|19-FEB-15 10.00.00.000000 PM
+37|1|111|266338|Buffer access -  local cache %|93.7|19-FEB-15 10.00.00.000000 PM
+37|1|114|266340|Buffer access - 	disk %|3.07|20-FEB-15 08.00.00.000000 AM
+37|1|114|266338|Buffer access -  local cache %|94.1|20-FEB-15 08.00.00.000000 AM
+37|1|114|266339|Buffer access - remote cache %|2.82|20-FEB-15 08.00.00.000000 AM
+37|1|115|266339|Buffer access - remote cache %|2.6|22-FEB-15 10.00.00.000000 PM
+37|1|115|266340|Buffer access - 	disk %|3.9|22-FEB-15 10.00.00.000000 PM
+37|1|115|266338|Buffer access -  local cache %|93.49|22-FEB-15 10.00.00.000000 PM
+37|1|117|266339|Buffer access - remote cache %|2.63|23-FEB-15 08.00.00.000000 AM
+37|1|117|266340|Buffer access - 	disk %|3.15|23-FEB-15 08.00.00.000000 AM
+37|1|117|266338|Buffer access -  local cache %|94.22|23-FEB-15 08.00.00.000000 AM
+37|1|116|266339|Buffer access - remote cache %|2.38|23-FEB-15 10.00.00.000000 PM
+37|1|116|266338|Buffer access -  local cache %|93.95|23-FEB-15 10.00.00.000000 PM
+37|1|116|266340|Buffer access - 	disk %|3.67|23-FEB-15 10.00.00.000000 PM
+37|1|109|266340|Buffer access - 	disk %|3.65|18-FEB-15 10.00.00.000000 PM
+37|1|109|266338|Buffer access -  local cache %|93.82|18-FEB-15 10.00.00.000000 PM
+37|1|109|266339|Buffer access - remote cache %|2.54|18-FEB-15 10.00.00.000000 PM
+37|1|113|266339|Buffer access - remote cache %|1.98|20-FEB-15 10.00.00.000000 PM
+37|1|113|266340|Buffer access - 	disk %|3.92|20-FEB-15 10.00.00.000000 PM
+37|1|113|266338|Buffer access -  local cache %|94.1|20-FEB-15 10.00.00.000000 PM
+37|1|119|266339|Buffer access - remote cache %|2.57|24-FEB-15 08.00.00.000000 AM
+37|1|119|266340|Buffer access - 	disk %|2.98|24-FEB-15 08.00.00.000000 AM
+37|1|119|266338|Buffer access -  local cache %|94.45|24-FEB-15 08.00.00.000000 AM
+37|1|118|266340|Buffer access - 	disk %|3.43|24-FEB-15 10.00.00.000000 PM
+37|1|118|266338|Buffer access -  local cache %|94.08|24-FEB-15 10.00.00.000000 PM
+37|1|118|266339|Buffer access - remote cache %|2.49|24-FEB-15 10.00.00.000000 PM
+37|1|121|266338|Buffer access -  local cache %|94.59|25-FEB-15 08.00.00.000000 AM
+37|1|121|266339|Buffer access - remote cache %|2.69|25-FEB-15 08.00.00.000000 AM
+37|1|121|266340|Buffer access - 	disk %|2.72|25-FEB-15 08.00.00.000000 AM
+37|1|120|266338|Buffer access -  local cache %|94.04|25-FEB-15 10.00.00.000000 PM
+37|1|120|266339|Buffer access - remote cache %|2.7|25-FEB-15 10.00.00.000000 PM
+37|1|120|266340|Buffer access - 	disk %|3.27|25-FEB-15 10.00.00.000000 PM
+37|1|123|266339|Buffer access - remote cache %|2.64|26-FEB-15 08.00.00.000000 AM
+37|1|123|266338|Buffer access -  local cache %|94.67|26-FEB-15 08.00.00.000000 AM
+37|1|123|266340|Buffer access - 	disk %|2.69|26-FEB-15 08.00.00.000000 AM
+37|1|125|266340|Buffer access - 	disk %|2.82|27-FEB-15 08.00.00.000000 AM
+37|1|125|266338|Buffer access -  local cache %|94.45|27-FEB-15 08.00.00.000000 AM
+37|1|125|266339|Buffer access - remote cache %|2.74|27-FEB-15 08.00.00.000000 AM
+37|1|124|266338|Buffer access -  local cache %|94.11|27-FEB-15 10.00.00.000000 PM
+37|1|124|266340|Buffer access - 	disk %|3.89|27-FEB-15 10.00.00.000000 PM
+37|1|124|266339|Buffer access - remote cache %|2|27-FEB-15 10.00.00.000000 PM
+37|1|126|266338|Buffer access -  local cache %|93.92|01-MAR-15 10.00.00.000000 PM
+37|1|126|266339|Buffer access - remote cache %|2.37|01-MAR-15 10.00.00.000000 PM
+37|1|126|266340|Buffer access - 	disk %|3.71|01-MAR-15 10.00.00.000000 PM
+37|1|127|266338|Buffer access -  local cache %|94.15|02-MAR-15 01.00.00.000000 AM
+37|1|127|266340|Buffer access - 	disk %|3.29|02-MAR-15 01.00.00.000000 AM
+37|1|127|266339|Buffer access - remote cache %|2.57|02-MAR-15 01.00.00.000000 AM
+37|1|128|266339|Buffer access - remote cache %|2.26|02-MAR-15 10.00.00.000000 PM
+37|1|128|266340|Buffer access - 	disk %|3.25|02-MAR-15 10.00.00.000000 PM
+37|1|128|266338|Buffer access -  local cache %|94.48|02-MAR-15 10.00.00.000000 PM
+37|1|122|266338|Buffer access -  local cache %|94.11|26-FEB-15 10.00.00.000000 PM
+37|1|122|266339|Buffer access - remote cache %|2.51|26-FEB-15 10.00.00.000000 PM
+37|1|122|266340|Buffer access - 	disk %|3.38|26-FEB-15 10.00.00.000000 PM
+37|1|134|266339|Buffer access - remote cache %|2.53|05-MAR-15 08.00.00.000000 AM
+37|1|134|266340|Buffer access - 	disk %|2.57|05-MAR-15 08.00.00.000000 AM
+37|1|134|266338|Buffer access -  local cache %|94.9|05-MAR-15 08.00.00.000000 AM
+37|1|137|266340|Buffer access - 	disk %|3.34|08-MAR-15 10.00.00.000000 PM
+37|1|137|266338|Buffer access -  local cache %|94.22|08-MAR-15 10.00.00.000000 PM
+37|1|137|266339|Buffer access - remote cache %|2.43|08-MAR-15 10.00.00.000000 PM
+37|1|129|266340|Buffer access - 	disk %|3.34|03-MAR-15 10.00.00.000000 PM
+37|1|129|266339|Buffer access - remote cache %|2.15|03-MAR-15 10.00.00.000000 PM
+37|1|129|266338|Buffer access -  local cache %|94.51|03-MAR-15 10.00.00.000000 PM
+37|1|132|266339|Buffer access - remote cache %|2.99|04-MAR-15 08.00.00.000000 AM
+37|1|132|266338|Buffer access -  local cache %|94.31|04-MAR-15 08.00.00.000000 AM
+37|1|132|266340|Buffer access - 	disk %|2.7|04-MAR-15 08.00.00.000000 AM
+37|1|131|266340|Buffer access - 	disk %|3.14|04-MAR-15 10.00.00.000000 PM
+37|1|131|266338|Buffer access -  local cache %|94.35|04-MAR-15 10.00.00.000000 PM
+37|1|131|266339|Buffer access - remote cache %|2.5|04-MAR-15 10.00.00.000000 PM
+37|1|133|266338|Buffer access -  local cache %|94.17|05-MAR-15 10.00.00.000000 PM
+37|1|133|266339|Buffer access - remote cache %|2.46|05-MAR-15 10.00.00.000000 PM
+37|1|133|266340|Buffer access - 	disk %|3.36|05-MAR-15 10.00.00.000000 PM
+37|1|136|266338|Buffer access -  local cache %|94.78|06-MAR-15 08.00.00.000000 AM
+37|1|136|266339|Buffer access - remote cache %|2.5|06-MAR-15 08.00.00.000000 AM
+37|1|136|266340|Buffer access - 	disk %|2.72|06-MAR-15 08.00.00.000000 AM
+37|1|135|266338|Buffer access -  local cache %|94.3|06-MAR-15 10.00.00.000000 PM
+37|1|135|266340|Buffer access - 	disk %|3.78|06-MAR-15 10.00.00.000000 PM
+37|1|135|266339|Buffer access - remote cache %|1.92|06-MAR-15 10.00.00.000000 PM
+37|1|138|266338|Buffer access -  local cache %|93.95|09-MAR-15 10.00.00.000000 PM
+37|1|138|266340|Buffer access - 	disk %|3.56|09-MAR-15 10.00.00.000000 PM
+37|1|138|266339|Buffer access - remote cache %|2.5|09-MAR-15 10.00.00.000000 PM
+37|1|130|266338|Buffer access -  local cache %|94.43|03-MAR-15 08.00.00.000000 AM
+37|1|130|266340|Buffer access - 	disk %|2.9|03-MAR-15 08.00.00.000000 AM
+37|1|130|266339|Buffer access - remote cache %|2.67|03-MAR-15 08.00.00.000000 AM
+37|1|139|266339|Buffer access - remote cache %|2.38|10-MAR-15 10.00.00.000000 PM
+37|1|139|266338|Buffer access -  local cache %|94.21|10-MAR-15 10.00.00.000000 PM
+37|1|139|266340|Buffer access - 	disk %|3.42|10-MAR-15 10.00.00.000000 PM
+37|1|141|266340|Buffer access - 	disk %|2.91|11-MAR-15 10.00.00.000000 PM
+37|1|141|266338|Buffer access -  local cache %|94.68|11-MAR-15 10.00.00.000000 PM
+37|1|141|266339|Buffer access - remote cache %|2.41|11-MAR-15 10.00.00.000000 PM
+37|1|142|266339|Buffer access - remote cache %|2.56|12-MAR-15 08.00.00.000000 AM
+37|1|142|266340|Buffer access - 	disk %|2.59|12-MAR-15 08.00.00.000000 AM
+37|1|142|266338|Buffer access -  local cache %|94.85|12-MAR-15 08.00.00.000000 AM
+37|1|143|266338|Buffer access -  local cache %|94.85|12-MAR-15 10.00.00.000000 PM
+37|1|143|266339|Buffer access - remote cache %|2.24|12-MAR-15 10.00.00.000000 PM
+37|1|143|266340|Buffer access - 	disk %|2.91|12-MAR-15 10.00.00.000000 PM
+37|1|145|266339|Buffer access - remote cache %|2.38|13-MAR-15 08.00.00.000000 AM
+37|1|145|266340|Buffer access - 	disk %|2.76|13-MAR-15 08.00.00.000000 AM
+37|1|145|266338|Buffer access -  local cache %|94.87|13-MAR-15 08.00.00.000000 AM
+37|1|144|266338|Buffer access -  local cache %|94.4|13-MAR-15 10.00.00.000000 PM
+37|1|144|266339|Buffer access - remote cache %|2.03|13-MAR-15 10.00.00.000000 PM
+37|1|144|266340|Buffer access - 	disk %|3.57|13-MAR-15 10.00.00.000000 PM
+37|1|146|266338|Buffer access -  local cache %|93.67|15-MAR-15 10.00.00.000000 PM
+37|1|146|266340|Buffer access - 	disk %|5.03|15-MAR-15 10.00.00.000000 PM
+37|1|146|266339|Buffer access - remote cache %|1.3|15-MAR-15 10.00.00.000000 PM
+37|1|148|266338|Buffer access -  local cache %|94.1|16-MAR-15 08.00.00.000000 AM
+37|1|148|266339|Buffer access - remote cache %|1.46|16-MAR-15 08.00.00.000000 AM
+37|1|148|266340|Buffer access - 	disk %|4.44|16-MAR-15 08.00.00.000000 AM
+37|1|147|266339|Buffer access - remote cache %|1.25|16-MAR-15 10.00.00.000000 PM
+37|1|147|266338|Buffer access -  local cache %|93.98|16-MAR-15 10.00.00.000000 PM
+37|1|147|266340|Buffer access - 	disk %|4.76|16-MAR-15 10.00.00.000000 PM
+37|1|140|266340|Buffer access - 	disk %|2.85|10-MAR-15 08.00.00.000000 AM
+37|1|140|266338|Buffer access -  local cache %|94.44|10-MAR-15 08.00.00.000000 AM
+37|1|140|266339|Buffer access - remote cache %|2.7|10-MAR-15 08.00.00.000000 AM
+37|1|153|266339|Buffer access - remote cache %|1.42|18-MAR-15 10.00.00.000000 PM
+37|1|153|266340|Buffer access - 	disk %|4.1|18-MAR-15 10.00.00.000000 PM
+37|1|153|266338|Buffer access -  local cache %|94.49|18-MAR-15 10.00.00.000000 PM
+37|1|149|266338|Buffer access -  local cache %|93.85|17-MAR-15 01.00.00.000000 AM
+37|1|149|266339|Buffer access - remote cache %|1.32|17-MAR-15 01.00.00.000000 AM
+37|1|149|266340|Buffer access - 	disk %|4.83|17-MAR-15 01.00.00.000000 AM
+37|1|150|266339|Buffer access - remote cache %|1.27|17-MAR-15 10.00.00.000000 PM
+37|1|150|266340|Buffer access - 	disk %|4.37|17-MAR-15 10.00.00.000000 PM
+37|1|150|266338|Buffer access -  local cache %|94.37|17-MAR-15 10.00.00.000000 PM
+37|1|152|266339|Buffer access - remote cache %|1.27|18-MAR-15 08.00.00.000000 AM
+37|1|152|266338|Buffer access -  local cache %|94.93|18-MAR-15 08.00.00.000000 AM
+37|1|152|266340|Buffer access - 	disk %|3.8|18-MAR-15 08.00.00.000000 AM
+37|1|154|266340|Buffer access - 	disk %|3.81|19-MAR-15 08.00.00.000000 AM
+37|1|154|266338|Buffer access -  local cache %|95.01|19-MAR-15 08.00.00.000000 AM
+37|1|154|266339|Buffer access - remote cache %|1.18|19-MAR-15 08.00.00.000000 AM
+37|1|155|266338|Buffer access -  local cache %|94.61|19-MAR-15 10.00.00.000000 PM
+37|1|155|266340|Buffer access - 	disk %|4.03|19-MAR-15 10.00.00.000000 PM
+37|1|155|266339|Buffer access - remote cache %|1.36|19-MAR-15 10.00.00.000000 PM
+37|1|156|266338|Buffer access -  local cache %|94.94|20-MAR-15 08.00.00.000000 AM
+37|1|156|266340|Buffer access - 	disk %|3.82|20-MAR-15 08.00.00.000000 AM
+37|1|156|266339|Buffer access - remote cache %|1.24|20-MAR-15 08.00.00.000000 AM
+37|1|157|266340|Buffer access - 	disk %|4.57|20-MAR-15 10.00.00.000000 PM
+37|1|157|266338|Buffer access -  local cache %|94.03|20-MAR-15 10.00.00.000000 PM
+37|1|157|266339|Buffer access - remote cache %|1.41|20-MAR-15 10.00.00.000000 PM
+37|1|158|266338|Buffer access -  local cache %|94.16|22-MAR-15 10.00.00.000000 PM
+37|1|158|266339|Buffer access - remote cache %|1.35|22-MAR-15 10.00.00.000000 PM
+37|1|158|266340|Buffer access - 	disk %|4.49|22-MAR-15 10.00.00.000000 PM
+37|1|159|266340|Buffer access - 	disk %|4.02|23-MAR-15 08.00.00.000000 AM
+37|1|159|266338|Buffer access -  local cache %|94.69|23-MAR-15 08.00.00.000000 AM
+37|1|159|266339|Buffer access - remote cache %|1.29|23-MAR-15 08.00.00.000000 AM
+37|1|160|266339|Buffer access - remote cache %|1.26|23-MAR-15 10.00.00.000000 PM
+37|1|160|266340|Buffer access - 	disk %|4.09|23-MAR-15 10.00.00.000000 PM
+37|1|160|266338|Buffer access -  local cache %|94.65|23-MAR-15 10.00.00.000000 PM
+37|1|151|266338|Buffer access -  local cache %|93.99|17-MAR-15 08.00.00.000000 AM
+37|1|151|266339|Buffer access - remote cache %|1.24|17-MAR-15 08.00.00.000000 AM
+37|1|151|266340|Buffer access - 	disk %|4.77|17-MAR-15 08.00.00.000000 AM
+37|1|163|266340|Buffer access - 	disk %|3.85|25-MAR-15 08.00.00.000000 AM
+37|1|163|266339|Buffer access - remote cache %|1.24|25-MAR-15 08.00.00.000000 AM
+37|1|163|266338|Buffer access -  local cache %|94.91|25-MAR-15 08.00.00.000000 AM
+37|1|166|266340|Buffer access - 	disk %|3.52|27-MAR-15 10.00.00.000000 PM
+37|1|166|266339|Buffer access - remote cache %|1.51|27-MAR-15 10.00.00.000000 PM
+37|1|166|266338|Buffer access -  local cache %|94.97|27-MAR-15 10.00.00.000000 PM
+37|1|167|266339|Buffer access - remote cache %|1.18|29-MAR-15 10.00.00.000000 PM
+37|1|167|266338|Buffer access -  local cache %|94.88|29-MAR-15 10.00.00.000000 PM
+37|1|167|266340|Buffer access - 	disk %|3.93|29-MAR-15 10.00.00.000000 PM
+37|1|168|266340|Buffer access - 	disk %|3.95|30-MAR-15 01.00.00.000000 AM
+37|1|168|266338|Buffer access -  local cache %|94.77|30-MAR-15 01.00.00.000000 AM
+37|1|168|266339|Buffer access - remote cache %|1.28|30-MAR-15 01.00.00.000000 AM
+37|1|165|266339|Buffer access - remote cache %|1.39|26-MAR-15 10.00.00.000000 PM
+37|1|165|266338|Buffer access -  local cache %|94.6|26-MAR-15 10.00.00.000000 PM
+37|1|165|266340|Buffer access - 	disk %|4.01|26-MAR-15 10.00.00.000000 PM
+37|1|169|266340|Buffer access - 	disk %|4.14|30-MAR-15 10.00.00.000000 PM
+37|1|169|266339|Buffer access - remote cache %|1.26|30-MAR-15 10.00.00.000000 PM
+37|1|169|266338|Buffer access -  local cache %|94.6|30-MAR-15 10.00.00.000000 PM
+37|1|161|266338|Buffer access -  local cache %|95|24-MAR-15 08.00.00.000000 AM
+37|1|161|266339|Buffer access - remote cache %|1.22|24-MAR-15 08.00.00.000000 AM
+37|1|161|266340|Buffer access - 	disk %|3.78|24-MAR-15 08.00.00.000000 AM
+37|1|162|266340|Buffer access - 	disk %|4|24-MAR-15 10.00.00.000000 PM
+37|1|162|266338|Buffer access -  local cache %|94.68|24-MAR-15 10.00.00.000000 PM
+37|1|162|266339|Buffer access - remote cache %|1.32|24-MAR-15 10.00.00.000000 PM
+37|1|164|266340|Buffer access - 	disk %|3.59|26-MAR-15 08.00.00.000000 AM
+37|1|164|266338|Buffer access -  local cache %|95.21|26-MAR-15 08.00.00.000000 AM
+37|1|164|266339|Buffer access - remote cache %|1.2|26-MAR-15 08.00.00.000000 AM
+37|1|177|266338|Buffer access -  local cache %|94.77|03-APR-15 10.00.00.000000 PM
+37|1|177|266339|Buffer access - remote cache %|1.29|03-APR-15 10.00.00.000000 PM
+37|1|177|266340|Buffer access - 	disk %|3.94|03-APR-15 10.00.00.000000 PM
+37|1|178|266340|Buffer access - 	disk %|3.99|06-APR-15 08.00.00.000000 AM
+37|1|178|266338|Buffer access -  local cache %|94.8|06-APR-15 08.00.00.000000 AM
+37|1|178|266339|Buffer access - remote cache %|1.21|06-APR-15 08.00.00.000000 AM
+37|1|170|266338|Buffer access -  local cache %|94.99|31-MAR-15 08.00.00.000000 AM
+37|1|170|266339|Buffer access - remote cache %|1.14|31-MAR-15 08.00.00.000000 AM
+37|1|170|266340|Buffer access - 	disk %|3.87|31-MAR-15 08.00.00.000000 AM
+37|1|171|266338|Buffer access -  local cache %|94.61|31-MAR-15 10.00.00.000000 PM
+37|1|171|266340|Buffer access - 	disk %|4.16|31-MAR-15 10.00.00.000000 PM
+37|1|171|266339|Buffer access - remote cache %|1.23|31-MAR-15 10.00.00.000000 PM
+37|1|172|266338|Buffer access -  local cache %|95.25|01-APR-15 08.00.00.000000 AM
+37|1|172|266339|Buffer access - remote cache %|1.11|01-APR-15 08.00.00.000000 AM
+37|1|172|266340|Buffer access - 	disk %|3.63|01-APR-15 08.00.00.000000 AM
+37|1|173|266339|Buffer access - remote cache %|1.32|01-APR-15 10.00.00.000000 PM
+37|1|173|266338|Buffer access -  local cache %|94.48|01-APR-15 10.00.00.000000 PM
+37|1|173|266340|Buffer access - 	disk %|4.2|01-APR-15 10.00.00.000000 PM
+37|1|174|266340|Buffer access - 	disk %|3.43|02-APR-15 08.00.00.000000 AM
+37|1|174|266339|Buffer access - remote cache %|1.11|02-APR-15 08.00.00.000000 AM
+37|1|174|266338|Buffer access -  local cache %|95.45|02-APR-15 08.00.00.000000 AM
+37|1|175|266338|Buffer access -  local cache %|94.58|02-APR-15 10.00.00.000000 PM
+37|1|175|266339|Buffer access - remote cache %|1.3|02-APR-15 10.00.00.000000 PM
+37|1|175|266340|Buffer access - 	disk %|4.12|02-APR-15 10.00.00.000000 PM
+37|1|176|266340|Buffer access - 	disk %|3.59|03-APR-15 08.00.00.000000 AM
+37|1|176|266339|Buffer access - remote cache %|1.15|03-APR-15 08.00.00.000000 AM
+37|1|176|266338|Buffer access -  local cache %|95.25|03-APR-15 08.00.00.000000 AM
+37|1|179|266340|Buffer access - 	disk %|4.12|06-APR-15 10.00.00.000000 PM
+37|1|179|266339|Buffer access - remote cache %|1.28|06-APR-15 10.00.00.000000 PM
+37|1|179|266338|Buffer access -  local cache %|94.59|06-APR-15 10.00.00.000000 PM
+37|1|187|266339|Buffer access - remote cache %|1.33|10-APR-15 10.00.00.000000 PM
+37|1|187|266338|Buffer access -  local cache %|94.28|10-APR-15 10.00.00.000000 PM
+37|1|187|266340|Buffer access - 	disk %|4.38|10-APR-15 10.00.00.000000 PM
+37|1|182|266338|Buffer access -  local cache %|94.63|08-APR-15 10.00.00.000000 PM
+37|1|182|266339|Buffer access - remote cache %|1.35|08-APR-15 10.00.00.000000 PM
+37|1|182|266340|Buffer access - 	disk %|4.03|08-APR-15 10.00.00.000000 PM
+37|1|183|266340|Buffer access - 	disk %|3.56|08-APR-15 08.00.00.000000 AM
+37|1|183|266339|Buffer access - remote cache %|1.13|08-APR-15 08.00.00.000000 AM
+37|1|183|266338|Buffer access -  local cache %|95.31|08-APR-15 08.00.00.000000 AM
+37|1|184|266339|Buffer access - remote cache %|1.13|09-APR-15 08.00.00.000000 AM
+37|1|184|266338|Buffer access -  local cache %|95.31|09-APR-15 08.00.00.000000 AM
+37|1|184|266340|Buffer access - 	disk %|3.56|09-APR-15 08.00.00.000000 AM
+37|1|180|266340|Buffer access - 	disk %|3.79|07-APR-15 08.00.00.000000 AM
+37|1|180|266338|Buffer access -  local cache %|95.07|07-APR-15 08.00.00.000000 AM
+37|1|180|266339|Buffer access - remote cache %|1.14|07-APR-15 08.00.00.000000 AM
+37|1|181|266339|Buffer access - remote cache %|1.3|07-APR-15 10.00.00.000000 PM
+37|1|181|266340|Buffer access - 	disk %|4.19|07-APR-15 10.00.00.000000 PM
+37|1|181|266338|Buffer access -  local cache %|94.51|07-APR-15 10.00.00.000000 PM
+37|1|188|266340|Buffer access - 	disk %|4.18|12-APR-15 10.00.00.000000 PM
+37|1|188|266338|Buffer access -  local cache %|94.53|12-APR-15 10.00.00.000000 PM
+37|1|188|266339|Buffer access - remote cache %|1.28|12-APR-15 10.00.00.000000 PM
+37|1|185|266338|Buffer access -  local cache %|94.57|09-APR-15 10.00.00.000000 PM
+37|1|185|266339|Buffer access - remote cache %|1.34|09-APR-15 10.00.00.000000 PM
+37|1|185|266340|Buffer access - 	disk %|4.09|09-APR-15 10.00.00.000000 PM
+37|1|186|266340|Buffer access - 	disk %|3.77|10-APR-15 08.00.00.000000 AM
+37|1|186|266339|Buffer access - remote cache %|1.2|10-APR-15 08.00.00.000000 AM
+37|1|186|266338|Buffer access -  local cache %|95.03|10-APR-15 08.00.00.000000 AM
+37|1|190|266338|Buffer access -  local cache %|94.45|13-APR-15 10.00.00.000000 PM
+37|1|190|266339|Buffer access - remote cache %|1.22|13-APR-15 10.00.00.000000 PM
+37|1|190|266340|Buffer access - 	disk %|4.32|13-APR-15 10.00.00.000000 PM
+37|1|189|266339|Buffer access - remote cache %|1.19|13-APR-15 08.00.00.000000 AM
+37|1|189|266338|Buffer access -  local cache %|94.97|13-APR-15 08.00.00.000000 AM
+37|1|189|266340|Buffer access - 	disk %|3.85|13-APR-15 08.00.00.000000 AM
+37|1|193|266340|Buffer access - 	disk %|3.38|15-APR-15 08.00.00.000000 AM
+37|1|193|266338|Buffer access -  local cache %|95.29|15-APR-15 08.00.00.000000 AM
+37|1|193|266339|Buffer access - remote cache %|1.32|15-APR-15 08.00.00.000000 AM
+37|1|192|266339|Buffer access - remote cache %|1.36|14-APR-15 10.00.00.000000 PM
+37|1|192|266338|Buffer access -  local cache %|94.45|14-APR-15 10.00.00.000000 PM
+37|1|192|266340|Buffer access - 	disk %|4.2|14-APR-15 10.00.00.000000 PM
+37|1|201|266339|Buffer access - remote cache %|1.22|20-APR-15 10.00.00.000000 PM
+37|1|201|266338|Buffer access -  local cache %|95.07|20-APR-15 10.00.00.000000 PM
+37|1|201|266340|Buffer access - 	disk %|3.71|20-APR-15 10.00.00.000000 PM
+37|1|195|266338|Buffer access -  local cache %|95.54|16-APR-15 08.00.00.000000 AM
+37|1|195|266340|Buffer access - 	disk %|3.14|16-APR-15 08.00.00.000000 AM
+37|1|195|266339|Buffer access - remote cache %|1.33|16-APR-15 08.00.00.000000 AM
+37|1|194|266339|Buffer access - remote cache %|1.39|15-APR-15 10.00.00.000000 PM
+37|1|194|266338|Buffer access -  local cache %|94.65|15-APR-15 10.00.00.000000 PM
+37|1|194|266340|Buffer access - 	disk %|3.96|15-APR-15 10.00.00.000000 PM
+37|1|199|266338|Buffer access -  local cache %|94.5|19-APR-15 10.00.00.000000 PM
+37|1|199|266339|Buffer access - remote cache %|1.3|19-APR-15 10.00.00.000000 PM
+37|1|199|266340|Buffer access - 	disk %|4.2|19-APR-15 10.00.00.000000 PM
+37|1|200|266338|Buffer access -  local cache %|94.99|20-APR-15 08.00.00.000000 AM
+37|1|200|266340|Buffer access - 	disk %|3.78|20-APR-15 08.00.00.000000 AM
+37|1|200|266339|Buffer access - remote cache %|1.24|20-APR-15 08.00.00.000000 AM
+37|1|191|266338|Buffer access -  local cache %|95.16|14-APR-15 08.00.00.000000 AM
+37|1|191|266339|Buffer access - remote cache %|1.16|14-APR-15 08.00.00.000000 AM
+37|1|191|266340|Buffer access - 	disk %|3.68|14-APR-15 08.00.00.000000 AM
+37|1|197|266338|Buffer access -  local cache %|95.31|17-APR-15 08.00.00.000000 AM
+37|1|197|266340|Buffer access - 	disk %|3.32|17-APR-15 08.00.00.000000 AM
+37|1|197|266339|Buffer access - remote cache %|1.37|17-APR-15 08.00.00.000000 AM
+37|1|198|266340|Buffer access - 	disk %|3.84|17-APR-15 10.00.00.000000 PM
+37|1|198|266338|Buffer access -  local cache %|94.73|17-APR-15 10.00.00.000000 PM
+37|1|198|266339|Buffer access - remote cache %|1.43|17-APR-15 10.00.00.000000 PM
+37|1|196|266338|Buffer access -  local cache %|94.72|16-APR-15 10.00.00.000000 PM
+37|1|196|266340|Buffer access - 	disk %|3.88|16-APR-15 10.00.00.000000 PM
+37|1|196|266339|Buffer access - remote cache %|1.41|16-APR-15 10.00.00.000000 PM
+37|1|204|266339|Buffer access - remote cache %|1.17|22-APR-15 08.00.00.000000 AM
+37|1|204|266338|Buffer access -  local cache %|95.35|22-APR-15 08.00.00.000000 AM
+37|1|204|266340|Buffer access - 	disk %|3.49|22-APR-15 08.00.00.000000 AM
+37|1|205|266339|Buffer access - remote cache %|1.32|22-APR-15 10.00.00.000000 PM
+37|1|205|266338|Buffer access -  local cache %|94.84|22-APR-15 10.00.00.000000 PM
+37|1|205|266340|Buffer access - 	disk %|3.84|22-APR-15 10.00.00.000000 PM
+37|1|207|266339|Buffer access - remote cache %|1.38|23-APR-15 10.00.00.000000 PM
+37|1|207|266340|Buffer access - 	disk %|4.13|23-APR-15 10.00.00.000000 PM
+37|1|207|266338|Buffer access -  local cache %|94.5|23-APR-15 10.00.00.000000 PM
+37|1|209|266340|Buffer access - 	disk %|4.03|27-APR-15 08.00.00.000000 AM
+37|1|209|266338|Buffer access -  local cache %|94.82|27-APR-15 08.00.00.000000 AM
+37|1|209|266339|Buffer access - remote cache %|1.15|27-APR-15 08.00.00.000000 AM
+37|1|208|266340|Buffer access - 	disk %|4.42|26-APR-15 10.00.00.000000 PM
+37|1|208|266339|Buffer access - remote cache %|1.25|26-APR-15 10.00.00.000000 PM
+37|1|208|266338|Buffer access -  local cache %|94.33|26-APR-15 10.00.00.000000 PM
+37|1|202|266338|Buffer access -  local cache %|95.3|21-APR-15 08.00.00.000000 AM
+37|1|202|266339|Buffer access - remote cache %|1.15|21-APR-15 08.00.00.000000 AM
+37|1|202|266340|Buffer access - 	disk %|3.55|21-APR-15 08.00.00.000000 AM
+37|1|203|266339|Buffer access - remote cache %|1.3|21-APR-15 10.00.00.000000 PM
+37|1|203|266340|Buffer access - 	disk %|3.79|21-APR-15 10.00.00.000000 PM
+37|1|203|266338|Buffer access -  local cache %|94.91|21-APR-15 10.00.00.000000 PM
+37|1|206|266338|Buffer access -  local cache %|95.57|23-APR-15 08.00.00.000000 AM
+37|1|206|266340|Buffer access - 	disk %|3.28|23-APR-15 08.00.00.000000 AM
+37|1|206|266339|Buffer access - remote cache %|1.15|23-APR-15 08.00.00.000000 AM
+37|1|210|266339|Buffer access - remote cache %|1.24|27-APR-15 10.00.00.000000 PM
+37|1|210|266340|Buffer access - 	disk %|4.15|27-APR-15 10.00.00.000000 PM
+37|1|210|266338|Buffer access -  local cache %|94.61|27-APR-15 10.00.00.000000 PM
+37|1|216|266338|Buffer access -  local cache %|94.33|30-APR-15 10.00.00.000000 PM
+37|1|216|266340|Buffer access - 	disk %|4.38|30-APR-15 10.00.00.000000 PM
+37|1|216|266339|Buffer access - remote cache %|1.3|30-APR-15 10.00.00.000000 PM
+37|1|220|266339|Buffer access - remote cache %|1.17|04-MAY-15 08.00.00.000000 AM
+37|1|220|266340|Buffer access - 	disk %|4.18|04-MAY-15 08.00.00.000000 AM
+37|1|220|266338|Buffer access -  local cache %|94.65|04-MAY-15 08.00.00.000000 AM
+37|1|212|266338|Buffer access -  local cache %|94.17|28-APR-15 10.00.00.000000 PM
+37|1|212|266339|Buffer access - remote cache %|1.3|28-APR-15 10.00.00.000000 PM
+37|1|212|266340|Buffer access - 	disk %|4.54|28-APR-15 10.00.00.000000 PM
+37|1|221|266339|Buffer access - remote cache %|1.24|04-MAY-15 10.00.00.000000 PM
+37|1|221|266340|Buffer access - 	disk %|4.67|04-MAY-15 10.00.00.000000 PM
+37|1|221|266338|Buffer access -  local cache %|94.09|04-MAY-15 10.00.00.000000 PM
+37|1|213|266338|Buffer access -  local cache %|95.19|29-APR-15 08.00.00.000000 AM
+37|1|213|266339|Buffer access - remote cache %|1.08|29-APR-15 08.00.00.000000 AM
+37|1|213|266340|Buffer access - 	disk %|3.72|29-APR-15 08.00.00.000000 AM
+37|1|214|266339|Buffer access - remote cache %|1.32|29-APR-15 10.00.00.000000 PM
+37|1|214|266338|Buffer access -  local cache %|94.41|29-APR-15 10.00.00.000000 PM
+37|1|214|266340|Buffer access - 	disk %|4.27|29-APR-15 10.00.00.000000 PM
+37|1|217|266340|Buffer access - 	disk %|3.9|01-MAY-15 08.00.00.000000 AM
+37|1|217|266338|Buffer access -  local cache %|94.92|01-MAY-15 08.00.00.000000 AM
+37|1|217|266339|Buffer access - remote cache %|1.18|01-MAY-15 08.00.00.000000 AM
+37|1|218|266338|Buffer access -  local cache %|94.27|01-MAY-15 10.00.00.000000 PM
+37|1|218|266339|Buffer access - remote cache %|1.41|01-MAY-15 10.00.00.000000 PM
+37|1|218|266340|Buffer access - 	disk %|4.32|01-MAY-15 10.00.00.000000 PM
+37|1|211|266340|Buffer access - 	disk %|3.88|28-APR-15 08.00.00.000000 AM
+37|1|211|266339|Buffer access - remote cache %|1.14|28-APR-15 08.00.00.000000 AM
+37|1|211|266338|Buffer access -  local cache %|94.98|28-APR-15 08.00.00.000000 AM
+37|1|219|266340|Buffer access - 	disk %|4.82|03-MAY-15 10.00.00.000000 PM
+37|1|219|266338|Buffer access -  local cache %|93.82|03-MAY-15 10.00.00.000000 PM
+37|1|219|266339|Buffer access - remote cache %|1.36|03-MAY-15 10.00.00.000000 PM
+37|1|215|266340|Buffer access - 	disk %|3.58|30-APR-15 08.00.00.000000 AM
+37|1|215|266338|Buffer access -  local cache %|95.3|30-APR-15 08.00.00.000000 AM
+37|1|215|266339|Buffer access - remote cache %|1.13|30-APR-15 08.00.00.000000 AM
+37|1|225|266338|Buffer access -  local cache %|94.44|06-MAY-15 10.00.00.000000 PM
+37|1|225|266340|Buffer access - 	disk %|4.29|06-MAY-15 10.00.00.000000 PM
+37|1|225|266339|Buffer access - remote cache %|1.27|06-MAY-15 10.00.00.000000 PM
+37|1|230|266338|Buffer access -  local cache %|94.55|10-MAY-15 10.00.00.000000 PM
+37|1|230|266339|Buffer access - remote cache %|1.13|10-MAY-15 10.00.00.000000 PM
+37|1|230|266340|Buffer access - 	disk %|4.32|10-MAY-15 10.00.00.000000 PM
+37|1|228|266338|Buffer access -  local cache %|95.18|08-MAY-15 08.00.00.000000 AM
+37|1|228|266339|Buffer access - remote cache %|1.14|08-MAY-15 08.00.00.000000 AM
+37|1|228|266340|Buffer access - 	disk %|3.68|08-MAY-15 08.00.00.000000 AM
+37|1|229|266340|Buffer access - 	disk %|3.79|08-MAY-15 10.00.00.000000 PM
+37|1|229|266339|Buffer access - remote cache %|1.27|08-MAY-15 10.00.00.000000 PM
+37|1|229|266338|Buffer access -  local cache %|94.94|08-MAY-15 10.00.00.000000 PM
+37|1|232|266339|Buffer access - remote cache %|1.08|11-MAY-15 10.00.00.000000 PM
+37|1|232|266340|Buffer access - 	disk %|4.09|11-MAY-15 10.00.00.000000 PM
+37|1|232|266338|Buffer access -  local cache %|94.82|11-MAY-15 10.00.00.000000 PM
+37|1|222|266339|Buffer access - remote cache %|1.11|05-MAY-15 08.00.00.000000 AM
+37|1|222|266340|Buffer access - 	disk %|3.82|05-MAY-15 08.00.00.000000 AM
+37|1|222|266338|Buffer access -  local cache %|95.07|05-MAY-15 08.00.00.000000 AM
+37|1|227|266339|Buffer access - remote cache %|1.26|07-MAY-15 10.00.00.000000 PM
+37|1|227|266340|Buffer access - 	disk %|4.28|07-MAY-15 10.00.00.000000 PM
+37|1|227|266338|Buffer access -  local cache %|94.46|07-MAY-15 10.00.00.000000 PM
+37|1|223|266340|Buffer access - 	disk %|4.42|05-MAY-15 10.00.00.000000 PM
+37|1|223|266339|Buffer access - remote cache %|1.25|05-MAY-15 10.00.00.000000 PM
+37|1|223|266338|Buffer access -  local cache %|94.33|05-MAY-15 10.00.00.000000 PM
+37|1|231|266339|Buffer access - remote cache %|1.07|11-MAY-15 08.00.00.000000 AM
+37|1|231|266340|Buffer access - 	disk %|4|11-MAY-15 08.00.00.000000 AM
+37|1|231|266338|Buffer access -  local cache %|94.93|11-MAY-15 08.00.00.000000 AM
+37|1|224|266339|Buffer access - remote cache %|1.09|06-MAY-15 08.00.00.000000 AM
+37|1|224|266340|Buffer access - 	disk %|3.88|06-MAY-15 08.00.00.000000 AM
+37|1|224|266338|Buffer access -  local cache %|95.03|06-MAY-15 08.00.00.000000 AM
+37|1|226|266339|Buffer access - remote cache %|1.07|07-MAY-15 08.00.00.000000 AM
+37|1|226|266340|Buffer access - 	disk %|3.74|07-MAY-15 08.00.00.000000 AM
+37|1|226|266338|Buffer access -  local cache %|95.19|07-MAY-15 08.00.00.000000 AM
+37|1|234|266338|Buffer access -  local cache %|94.95|13-MAY-15 10.00.00.000000 PM
+37|1|234|266340|Buffer access - 	disk %|3.87|13-MAY-15 10.00.00.000000 PM
+37|1|234|266339|Buffer access - remote cache %|1.18|13-MAY-15 10.00.00.000000 PM
+37|1|236|266338|Buffer access -  local cache %|94.75|14-MAY-15 10.00.00.000000 PM
+37|1|236|266340|Buffer access - 	disk %|4.03|14-MAY-15 10.00.00.000000 PM
+37|1|236|266339|Buffer access - remote cache %|1.22|14-MAY-15 10.00.00.000000 PM
+37|1|239|266338|Buffer access -  local cache %|94.11|17-MAY-15 10.00.00.000000 PM
+37|1|239|266340|Buffer access - 	disk %|4.64|17-MAY-15 10.00.00.000000 PM
+37|1|239|266339|Buffer access - remote cache %|1.25|17-MAY-15 10.00.00.000000 PM
+37|1|235|266338|Buffer access -  local cache %|95.51|14-MAY-15 08.00.00.000000 AM
+37|1|235|266340|Buffer access - 	disk %|3.47|14-MAY-15 08.00.00.000000 AM
+37|1|235|266339|Buffer access - remote cache %|1.02|14-MAY-15 08.00.00.000000 AM
+37|1|240|266339|Buffer access - remote cache %|1.18|18-MAY-15 08.00.00.000000 AM
+37|1|240|266338|Buffer access -  local cache %|94.7|18-MAY-15 08.00.00.000000 AM
+37|1|240|266340|Buffer access - 	disk %|4.12|18-MAY-15 08.00.00.000000 AM
+37|1|241|266338|Buffer access -  local cache %|94.32|18-MAY-15 10.00.00.000000 PM
+37|1|241|266339|Buffer access - remote cache %|1.18|18-MAY-15 10.00.00.000000 PM
+37|1|241|266340|Buffer access - 	disk %|4.5|18-MAY-15 10.00.00.000000 PM
+37|1|238|266338|Buffer access -  local cache %|95|15-MAY-15 10.00.00.000000 PM
+37|1|238|266339|Buffer access - remote cache %|1.21|15-MAY-15 10.00.00.000000 PM
+37|1|238|266340|Buffer access - 	disk %|3.8|15-MAY-15 10.00.00.000000 PM
+37|1|237|266339|Buffer access - remote cache %|1.14|15-MAY-15 08.00.00.000000 AM
+37|1|237|266338|Buffer access -  local cache %|95.12|15-MAY-15 08.00.00.000000 AM
+37|1|237|266340|Buffer access - 	disk %|3.75|15-MAY-15 08.00.00.000000 AM
+37|1|243|266339|Buffer access - remote cache %|1.24|19-MAY-15 10.00.00.000000 PM
+37|1|243|266338|Buffer access -  local cache %|94.68|19-MAY-15 10.00.00.000000 PM
+37|1|243|266340|Buffer access - 	disk %|4.08|19-MAY-15 10.00.00.000000 PM
+37|1|245|266340|Buffer access - 	disk %|4.01|20-MAY-15 10.00.00.000000 PM
+37|1|245|266338|Buffer access -  local cache %|94.7|20-MAY-15 10.00.00.000000 PM
+37|1|245|266339|Buffer access - remote cache %|1.29|20-MAY-15 10.00.00.000000 PM
+37|1|246|266339|Buffer access - remote cache %|1.12|21-MAY-15 08.00.00.000000 AM
+37|1|246|266338|Buffer access -  local cache %|95.27|21-MAY-15 08.00.00.000000 AM
+37|1|246|266340|Buffer access - 	disk %|3.62|21-MAY-15 08.00.00.000000 AM
+37|1|252|266339|Buffer access - remote cache %|1.25|25-MAY-15 10.00.00.000000 PM
+37|1|252|266340|Buffer access - 	disk %|4.45|25-MAY-15 10.00.00.000000 PM
+37|1|252|266338|Buffer access -  local cache %|94.3|25-MAY-15 10.00.00.000000 PM
+37|1|242|266340|Buffer access - 	disk %|4.09|19-MAY-15 08.00.00.000000 AM
+37|1|242|266339|Buffer access - remote cache %|1.16|19-MAY-15 08.00.00.000000 AM
+37|1|242|266338|Buffer access -  local cache %|94.75|19-MAY-15 08.00.00.000000 AM
+37|1|247|266338|Buffer access -  local cache %|94.66|21-MAY-15 10.00.00.000000 PM
+37|1|247|266339|Buffer access - remote cache %|1.31|21-MAY-15 10.00.00.000000 PM
+37|1|247|266340|Buffer access - 	disk %|4.03|21-MAY-15 10.00.00.000000 PM
+37|1|251|266338|Buffer access -  local cache %|93.74|25-MAY-15 08.00.00.000000 AM
+37|1|251|266340|Buffer access - 	disk %|5|25-MAY-15 08.00.00.000000 AM
+37|1|251|266339|Buffer access - remote cache %|1.26|25-MAY-15 08.00.00.000000 AM
+37|1|249|266338|Buffer access -  local cache %|94.78|22-MAY-15 10.00.00.000000 PM
+37|1|249|266339|Buffer access - remote cache %|1.27|22-MAY-15 10.00.00.000000 PM
+37|1|249|266340|Buffer access - 	disk %|3.94|22-MAY-15 10.00.00.000000 PM
+37|1|250|266338|Buffer access -  local cache %|94|24-MAY-15 10.00.00.000000 PM
+37|1|250|266340|Buffer access - 	disk %|4.7|24-MAY-15 10.00.00.000000 PM
+37|1|250|266339|Buffer access - remote cache %|1.3|24-MAY-15 10.00.00.000000 PM
+37|1|248|266338|Buffer access -  local cache %|94.92|22-MAY-15 08.00.00.000000 AM
+37|1|248|266339|Buffer access - remote cache %|1.18|22-MAY-15 08.00.00.000000 AM
+37|1|248|266340|Buffer access - 	disk %|3.89|22-MAY-15 08.00.00.000000 AM
+37|1|244|266340|Buffer access - 	disk %|3.77|20-MAY-15 08.00.00.000000 AM
+37|1|244|266338|Buffer access -  local cache %|95.05|20-MAY-15 08.00.00.000000 AM
+37|1|244|266339|Buffer access - remote cache %|1.18|20-MAY-15 08.00.00.000000 AM
+37|1|261|266339|Buffer access - remote cache %|1.17|31-MAY-15 10.00.00.000000 PM
+37|1|261|266340|Buffer access - 	disk %|4.62|31-MAY-15 10.00.00.000000 PM
+37|1|261|266338|Buffer access -  local cache %|94.21|31-MAY-15 10.00.00.000000 PM
+37|1|254|266338|Buffer access -  local cache %|94.93|26-MAY-15 10.00.00.000000 PM
+37|1|254|266339|Buffer access - remote cache %|1.15|26-MAY-15 10.00.00.000000 PM
+37|1|254|266340|Buffer access - 	disk %|3.92|26-MAY-15 10.00.00.000000 PM
+37|1|256|266338|Buffer access -  local cache %|94.34|27-MAY-15 10.00.00.000000 PM
+37|1|256|266339|Buffer access - remote cache %|1.27|27-MAY-15 10.00.00.000000 PM
+37|1|256|266340|Buffer access - 	disk %|4.39|27-MAY-15 10.00.00.000000 PM
+37|1|257|266338|Buffer access -  local cache %|95.11|28-MAY-15 08.00.00.000000 AM
+37|1|257|266339|Buffer access - remote cache %|1.12|28-MAY-15 08.00.00.000000 AM
+37|1|257|266340|Buffer access - 	disk %|3.77|28-MAY-15 08.00.00.000000 AM
+37|1|258|266340|Buffer access - 	disk %|4.27|28-MAY-15 10.00.00.000000 PM
+37|1|258|266338|Buffer access -  local cache %|94.5|28-MAY-15 10.00.00.000000 PM
+37|1|258|266339|Buffer access - remote cache %|1.23|28-MAY-15 10.00.00.000000 PM
+37|1|259|266339|Buffer access - remote cache %|1.18|29-MAY-15 08.00.00.000000 AM
+37|1|259|266340|Buffer access - 	disk %|4.02|29-MAY-15 08.00.00.000000 AM
+37|1|259|266338|Buffer access -  local cache %|94.8|29-MAY-15 08.00.00.000000 AM
+37|1|255|266338|Buffer access -  local cache %|94.78|27-MAY-15 08.00.00.000000 AM
+37|1|255|266340|Buffer access - 	disk %|4.02|27-MAY-15 08.00.00.000000 AM
+37|1|255|266339|Buffer access - remote cache %|1.2|27-MAY-15 08.00.00.000000 AM
+37|1|260|266338|Buffer access -  local cache %|94.45|29-MAY-15 10.00.00.000000 PM
+37|1|260|266340|Buffer access - 	disk %|4.31|29-MAY-15 10.00.00.000000 PM
+37|1|260|266339|Buffer access - remote cache %|1.25|29-MAY-15 10.00.00.000000 PM
+37|1|253|266338|Buffer access -  local cache %|94.77|26-MAY-15 08.00.00.000000 AM
+37|1|253|266339|Buffer access - remote cache %|1.18|26-MAY-15 08.00.00.000000 AM
+37|1|253|266340|Buffer access - 	disk %|4.05|26-MAY-15 08.00.00.000000 AM
+37|1|262|266339|Buffer access - remote cache %|1.07|01-JUN-15 08.00.00.000000 AM
+37|1|262|266340|Buffer access - 	disk %|3.94|01-JUN-15 08.00.00.000000 AM
+37|1|262|266338|Buffer access -  local cache %|94.99|01-JUN-15 08.00.00.000000 AM
+37|1|263|266339|Buffer access - remote cache %|1.1|01-JUN-15 10.00.00.000000 PM
+37|1|263|266338|Buffer access -  local cache %|94.46|01-JUN-15 10.00.00.000000 PM
+37|1|263|266340|Buffer access - 	disk %|4.44|01-JUN-15 10.00.00.000000 PM
+37|1|274|266340|Buffer access - 	disk %|4.22|08-JUN-15 10.00.00.000000 PM
+37|1|274|266339|Buffer access - remote cache %|1.12|08-JUN-15 10.00.00.000000 PM
+37|1|274|266338|Buffer access -  local cache %|94.66|08-JUN-15 10.00.00.000000 PM
+37|1|266|266339|Buffer access - remote cache %|1.1|03-JUN-15 08.00.00.000000 AM
+37|1|266|266340|Buffer access - 	disk %|3.9|03-JUN-15 08.00.00.000000 AM
+37|1|266|266338|Buffer access -  local cache %|95|03-JUN-15 08.00.00.000000 AM
+37|1|267|266338|Buffer access -  local cache %|94.9|03-JUN-15 10.00.00.000000 PM
+37|1|267|266340|Buffer access - 	disk %|3.93|03-JUN-15 10.00.00.000000 PM
+37|1|267|266339|Buffer access - remote cache %|1.17|03-JUN-15 10.00.00.000000 PM
+37|1|272|266338|Buffer access -  local cache %|94.29|07-JUN-15 10.00.00.000000 PM
+37|1|272|266340|Buffer access - 	disk %|4.48|07-JUN-15 10.00.00.000000 PM
+37|1|272|266339|Buffer access - remote cache %|1.23|07-JUN-15 10.00.00.000000 PM
+37|1|269|266340|Buffer access - 	disk %|4.09|04-JUN-15 10.00.00.000000 PM
+37|1|269|266338|Buffer access -  local cache %|94.76|04-JUN-15 10.00.00.000000 PM
+37|1|269|266339|Buffer access - remote cache %|1.14|04-JUN-15 10.00.00.000000 PM
+37|1|273|266338|Buffer access -  local cache %|94.71|08-JUN-15 08.00.00.000000 AM
+37|1|273|266340|Buffer access - 	disk %|4.15|08-JUN-15 08.00.00.000000 AM
+37|1|273|266339|Buffer access - remote cache %|1.15|08-JUN-15 08.00.00.000000 AM
+37|1|271|266340|Buffer access - 	disk %|3.65|05-JUN-15 10.00.00.000000 PM
+37|1|271|266338|Buffer access -  local cache %|95.11|05-JUN-15 10.00.00.000000 PM
+37|1|271|266339|Buffer access - remote cache %|1.24|05-JUN-15 10.00.00.000000 PM
+37|1|270|266338|Buffer access -  local cache %|95.3|05-JUN-15 08.00.00.000000 AM
+37|1|270|266340|Buffer access - 	disk %|3.64|05-JUN-15 08.00.00.000000 AM
+37|1|270|266339|Buffer access - remote cache %|1.05|05-JUN-15 08.00.00.000000 AM
+37|1|265|266338|Buffer access -  local cache %|94.53|02-JUN-15 10.00.00.000000 PM
+37|1|265|266340|Buffer access - 	disk %|4.37|02-JUN-15 10.00.00.000000 PM
+37|1|265|266339|Buffer access - remote cache %|1.09|02-JUN-15 10.00.00.000000 PM
+37|1|268|266340|Buffer access - 	disk %|3.73|04-JUN-15 08.00.00.000000 AM
+37|1|268|266338|Buffer access -  local cache %|95.23|04-JUN-15 08.00.00.000000 AM
+37|1|268|266339|Buffer access - remote cache %|1.04|04-JUN-15 08.00.00.000000 AM
+37|1|264|266339|Buffer access - remote cache %|1.07|02-JUN-15 08.00.00.000000 AM
+37|1|264|266338|Buffer access -  local cache %|95.06|02-JUN-15 08.00.00.000000 AM
+37|1|264|266340|Buffer access - 	disk %|3.87|02-JUN-15 08.00.00.000000 AM
+37|1|282|266338|Buffer access -  local cache %|95.23|12-JUN-15 08.00.00.000000 AM
+37|1|282|266340|Buffer access - 	disk %|3.68|12-JUN-15 08.00.00.000000 AM
+37|1|282|266339|Buffer access - remote cache %|1.09|12-JUN-15 08.00.00.000000 AM
+37|1|277|266340|Buffer access - 	disk %|3.78|10-JUN-15 08.00.00.000000 AM
+37|1|277|266339|Buffer access - remote cache %|1.09|10-JUN-15 08.00.00.000000 AM
+37|1|277|266338|Buffer access -  local cache %|95.14|10-JUN-15 08.00.00.000000 AM
+37|1|279|266338|Buffer access -  local cache %|95.13|11-JUN-15 08.00.00.000000 AM
+37|1|279|266339|Buffer access - remote cache %|1.09|11-JUN-15 08.00.00.000000 AM
+37|1|279|266340|Buffer access - 	disk %|3.78|11-JUN-15 08.00.00.000000 AM
+37|1|280|266340|Buffer access - 	disk %|4.19|11-JUN-15 10.00.00.000000 PM
+37|1|280|266338|Buffer access -  local cache %|94.61|11-JUN-15 10.00.00.000000 PM
+37|1|280|266339|Buffer access - remote cache %|1.2|11-JUN-15 10.00.00.000000 PM
+37|1|284|266338|Buffer access -  local cache %|94.66|15-JUN-15 10.00.00.000000 PM
+37|1|284|266340|Buffer access - 	disk %|4.23|15-JUN-15 10.00.00.000000 PM
+37|1|284|266339|Buffer access - remote cache %|1.11|15-JUN-15 10.00.00.000000 PM
+37|1|285|266339|Buffer access - remote cache %|1.13|15-JUN-15 08.00.00.000000 AM
+37|1|285|266338|Buffer access -  local cache %|94.82|15-JUN-15 08.00.00.000000 AM
+37|1|285|266340|Buffer access - 	disk %|4.06|15-JUN-15 08.00.00.000000 AM
+37|1|275|266338|Buffer access -  local cache %|94.96|09-JUN-15 08.00.00.000000 AM
+37|1|275|266339|Buffer access - remote cache %|1.11|09-JUN-15 08.00.00.000000 AM
+37|1|275|266340|Buffer access - 	disk %|3.93|09-JUN-15 08.00.00.000000 AM
+37|1|276|266340|Buffer access - 	disk %|4.32|09-JUN-15 10.00.00.000000 PM
+37|1|276|266338|Buffer access -  local cache %|94.58|09-JUN-15 10.00.00.000000 PM
+37|1|276|266339|Buffer access - remote cache %|1.11|09-JUN-15 10.00.00.000000 PM
+37|1|281|266338|Buffer access -  local cache %|94.79|12-JUN-15 10.00.00.000000 PM
+37|1|281|266340|Buffer access - 	disk %|4.02|12-JUN-15 10.00.00.000000 PM
+37|1|281|266339|Buffer access - remote cache %|1.2|12-JUN-15 10.00.00.000000 PM
+37|1|283|266338|Buffer access -  local cache %|94.64|14-JUN-15 10.00.00.000000 PM
+37|1|283|266339|Buffer access - remote cache %|1.13|14-JUN-15 10.00.00.000000 PM
+37|1|283|266340|Buffer access - 	disk %|4.23|14-JUN-15 10.00.00.000000 PM
+37|1|278|266340|Buffer access - 	disk %|3.92|10-JUN-15 10.00.00.000000 PM
+37|1|278|266339|Buffer access - remote cache %|1.17|10-JUN-15 10.00.00.000000 PM
+37|1|278|266338|Buffer access -  local cache %|94.91|10-JUN-15 10.00.00.000000 PM
+37|1|287|266338|Buffer access -  local cache %|95.08|16-JUN-15 08.00.00.000000 AM
+37|1|287|266340|Buffer access - 	disk %|3.85|16-JUN-15 08.00.00.000000 AM
+37|1|287|266339|Buffer access - remote cache %|1.07|16-JUN-15 08.00.00.000000 AM
+37|1|286|266338|Buffer access -  local cache %|94.55|16-JUN-15 10.00.00.000000 PM
+37|1|286|266340|Buffer access - 	disk %|3.94|16-JUN-15 10.00.00.000000 PM
+37|1|286|266339|Buffer access - remote cache %|1.52|16-JUN-15 10.00.00.000000 PM
+37|1|296|266340|Buffer access - 	disk %|4.06|22-JUN-15 08.00.00.000000 AM
+37|1|296|266339|Buffer access - remote cache %|1.43|22-JUN-15 08.00.00.000000 AM
+37|1|296|266338|Buffer access -  local cache %|94.51|22-JUN-15 08.00.00.000000 AM
+37|1|294|266338|Buffer access -  local cache %|94.64|21-JUN-15 10.00.00.000000 PM
+37|1|294|266340|Buffer access - 	disk %|3.97|21-JUN-15 10.00.00.000000 PM
+37|1|294|266339|Buffer access - remote cache %|1.4|21-JUN-15 10.00.00.000000 PM
+37|1|295|266338|Buffer access -  local cache %|94.61|22-JUN-15 10.00.00.000000 PM
+37|1|295|266340|Buffer access - 	disk %|3.96|22-JUN-15 10.00.00.000000 PM
+37|1|295|266339|Buffer access - remote cache %|1.43|22-JUN-15 10.00.00.000000 PM
+37|1|288|266340|Buffer access - 	disk %|3.82|17-JUN-15 10.00.00.000000 PM
+37|1|288|266339|Buffer access - remote cache %|1.17|17-JUN-15 10.00.00.000000 PM
+37|1|288|266338|Buffer access -  local cache %|95.01|17-JUN-15 10.00.00.000000 PM
+37|1|291|266340|Buffer access - 	disk %|3.64|18-JUN-15 08.00.00.000000 AM
+37|1|291|266338|Buffer access -  local cache %|95.29|18-JUN-15 08.00.00.000000 AM
+37|1|291|266339|Buffer access - remote cache %|1.08|18-JUN-15 08.00.00.000000 AM
+37|1|290|266340|Buffer access - 	disk %|3.91|18-JUN-15 10.00.00.000000 PM
+37|1|290|266338|Buffer access -  local cache %|94.9|18-JUN-15 10.00.00.000000 PM
+37|1|290|266339|Buffer access - remote cache %|1.2|18-JUN-15 10.00.00.000000 PM
+37|1|292|266338|Buffer access -  local cache %|95.94|19-JUN-15 10.00.00.000000 PM
+37|1|292|266340|Buffer access - 	disk %|2.95|19-JUN-15 10.00.00.000000 PM
+37|1|292|266339|Buffer access - remote cache %|1.11|19-JUN-15 10.00.00.000000 PM
+37|1|289|266339|Buffer access - remote cache %|1.08|17-JUN-15 08.00.00.000000 AM
+37|1|289|266338|Buffer access -  local cache %|95.18|17-JUN-15 08.00.00.000000 AM
+37|1|289|266340|Buffer access - 	disk %|3.74|17-JUN-15 08.00.00.000000 AM
+37|1|293|266340|Buffer access - 	disk %|3.55|19-JUN-15 08.00.00.000000 AM
+37|1|293|266339|Buffer access - remote cache %|1.07|19-JUN-15 08.00.00.000000 AM
+37|1|293|266338|Buffer access -  local cache %|95.38|19-JUN-15 08.00.00.000000 AM
+37|1|297|266338|Buffer access -  local cache %|94.52|23-JUN-15 10.00.00.000000 PM
+37|1|297|266340|Buffer access - 	disk %|4.01|23-JUN-15 10.00.00.000000 PM
+37|1|297|266339|Buffer access - remote cache %|1.47|23-JUN-15 10.00.00.000000 PM
+37|1|298|266339|Buffer access - remote cache %|1.34|23-JUN-15 08.00.00.000000 AM
+37|1|298|266340|Buffer access - 	disk %|3.61|23-JUN-15 08.00.00.000000 AM
+37|1|298|266338|Buffer access -  local cache %|95.05|23-JUN-15 08.00.00.000000 AM
+37|1|300|266340|Buffer access - 	disk %|3.55|24-JUN-15 08.00.00.000000 AM
+37|1|300|266339|Buffer access - remote cache %|1.35|24-JUN-15 08.00.00.000000 AM
+37|1|300|266338|Buffer access -  local cache %|95.1|24-JUN-15 08.00.00.000000 AM
+37|1|302|266340|Buffer access - 	disk %|3.39|25-JUN-15 08.00.00.000000 AM
+37|1|302|266338|Buffer access -  local cache %|95.27|25-JUN-15 08.00.00.000000 AM
+37|1|302|266339|Buffer access - remote cache %|1.35|25-JUN-15 08.00.00.000000 AM
+37|1|304|266339|Buffer access - remote cache %|1.42|26-JUN-15 08.00.00.000000 AM
+37|1|304|266340|Buffer access - 	disk %|3.51|26-JUN-15 08.00.00.000000 AM
+37|1|304|266338|Buffer access -  local cache %|95.07|26-JUN-15 08.00.00.000000 AM
+37|1|299|266339|Buffer access - remote cache %|1.49|24-JUN-15 10.00.00.000000 PM
+37|1|299|266340|Buffer access - 	disk %|4.19|24-JUN-15 10.00.00.000000 PM
+37|1|299|266338|Buffer access -  local cache %|94.32|24-JUN-15 10.00.00.000000 PM
+37|1|305|266339|Buffer access - remote cache %|1.51|28-JUN-15 10.00.00.000000 PM
+37|1|305|266338|Buffer access -  local cache %|94.36|28-JUN-15 10.00.00.000000 PM
+37|1|305|266340|Buffer access - 	disk %|4.13|28-JUN-15 10.00.00.000000 PM
+37|1|306|266339|Buffer access - remote cache %|1.5|29-JUN-15 10.00.00.000000 PM
+37|1|306|266340|Buffer access - 	disk %|4.18|29-JUN-15 10.00.00.000000 PM
+37|1|306|266338|Buffer access -  local cache %|94.33|29-JUN-15 10.00.00.000000 PM
+37|1|307|266339|Buffer access - remote cache %|1.43|29-JUN-15 08.00.00.000000 AM
+37|1|307|266340|Buffer access - 	disk %|3.93|29-JUN-15 08.00.00.000000 AM
+37|1|307|266338|Buffer access -  local cache %|94.64|29-JUN-15 08.00.00.000000 AM
+37|1|301|266339|Buffer access - remote cache %|1.45|25-JUN-15 10.00.00.000000 PM
+37|1|301|266340|Buffer access - 	disk %|3.88|25-JUN-15 10.00.00.000000 PM
+37|1|301|266338|Buffer access -  local cache %|94.67|25-JUN-15 10.00.00.000000 PM
+37|1|303|266340|Buffer access - 	disk %|3.6|26-JUN-15 10.00.00.000000 PM
+37|1|303|266339|Buffer access - remote cache %|1.3|26-JUN-15 10.00.00.000000 PM
+37|1|303|266338|Buffer access -  local cache %|95.1|26-JUN-15 10.00.00.000000 PM
+37|1|310|266340|Buffer access - 	disk %|3.8|01-JUL-15 10.00.00.000000 PM
+37|1|310|266339|Buffer access - remote cache %|1.48|01-JUL-15 10.00.00.000000 PM
+37|1|310|266338|Buffer access -  local cache %|94.72|01-JUL-15 10.00.00.000000 PM
+37|1|311|266340|Buffer access - 	disk %|3.52|01-JUL-15 08.00.00.000000 AM
+37|1|311|266338|Buffer access -  local cache %|95.08|01-JUL-15 08.00.00.000000 AM
+37|1|311|266339|Buffer access - remote cache %|1.39|01-JUL-15 08.00.00.000000 AM
+37|1|314|266339|Buffer access - remote cache %|1.32|03-JUL-15 10.00.00.000000 PM
+37|1|314|266340|Buffer access - 	disk %|3.72|03-JUL-15 10.00.00.000000 PM
+37|1|314|266338|Buffer access -  local cache %|94.97|03-JUL-15 10.00.00.000000 PM
+37|1|315|266339|Buffer access - remote cache %|1.39|03-JUL-15 08.00.00.000000 AM
+37|1|315|266340|Buffer access - 	disk %|3.86|03-JUL-15 08.00.00.000000 AM
+37|1|315|266338|Buffer access -  local cache %|94.75|03-JUL-15 08.00.00.000000 AM
+37|1|312|266338|Buffer access -  local cache %|94.56|02-JUL-15 10.00.00.000000 PM
+37|1|312|266340|Buffer access - 	disk %|3.93|02-JUL-15 10.00.00.000000 PM
+37|1|312|266339|Buffer access - remote cache %|1.51|02-JUL-15 10.00.00.000000 PM
+37|1|313|266339|Buffer access - remote cache %|1.4|02-JUL-15 08.00.00.000000 AM
+37|1|313|266338|Buffer access -  local cache %|95.14|02-JUL-15 08.00.00.000000 AM
+37|1|313|266340|Buffer access - 	disk %|3.46|02-JUL-15 08.00.00.000000 AM
+37|1|308|266340|Buffer access - 	disk %|3.97|30-JUN-15 10.00.00.000000 PM
+37|1|308|266338|Buffer access -  local cache %|94.52|30-JUN-15 10.00.00.000000 PM
+37|1|308|266339|Buffer access - remote cache %|1.51|30-JUN-15 10.00.00.000000 PM
+37|1|309|266340|Buffer access - 	disk %|3.82|30-JUN-15 08.00.00.000000 AM
+37|1|309|266338|Buffer access -  local cache %|94.77|30-JUN-15 08.00.00.000000 AM
+37|1|309|266339|Buffer access - remote cache %|1.41|30-JUN-15 08.00.00.000000 AM
+37|1|318|266339|Buffer access - remote cache %|1.35|06-JUL-15 08.00.00.000000 AM
+37|1|318|266340|Buffer access - 	disk %|3.93|06-JUL-15 08.00.00.000000 AM
+37|1|318|266338|Buffer access -  local cache %|94.73|06-JUL-15 08.00.00.000000 AM
+37|1|317|266339|Buffer access - remote cache %|1.38|06-JUL-15 10.00.00.000000 PM
+37|1|317|266338|Buffer access -  local cache %|94.53|06-JUL-15 10.00.00.000000 PM
+37|1|317|266340|Buffer access - 	disk %|4.09|06-JUL-15 10.00.00.000000 PM
+37|1|316|266338|Buffer access -  local cache %|94.48|05-JUL-15 10.00.00.000000 PM
+37|1|316|266340|Buffer access - 	disk %|4.13|05-JUL-15 10.00.00.000000 PM
+37|1|316|266339|Buffer access - remote cache %|1.39|05-JUL-15 10.00.00.000000 PM
+37|1|321|266338|Buffer access -  local cache %|94.86|08-JUL-15 10.00.00.000000 PM
+37|1|321|266339|Buffer access - remote cache %|1.41|08-JUL-15 10.00.00.000000 PM
+37|1|321|266340|Buffer access - 	disk %|3.73|08-JUL-15 10.00.00.000000 PM
+37|1|319|266338|Buffer access -  local cache %|94.73|07-JUL-15 10.00.00.000000 PM
+37|1|319|266339|Buffer access - remote cache %|1.4|07-JUL-15 10.00.00.000000 PM
+37|1|319|266340|Buffer access - 	disk %|3.87|07-JUL-15 10.00.00.000000 PM
+37|1|320|266339|Buffer access - remote cache %|1.34|07-JUL-15 08.00.00.000000 AM
+37|1|320|266340|Buffer access - 	disk %|3.66|07-JUL-15 08.00.00.000000 AM
+37|1|320|266338|Buffer access -  local cache %|95|07-JUL-15 08.00.00.000000 AM
+37|1|328|266338|Buffer access -  local cache %|94.58|13-JUL-15 10.00.00.000000 PM
+37|1|328|266340|Buffer access - 	disk %|4|13-JUL-15 10.00.00.000000 PM
+37|1|328|266339|Buffer access - remote cache %|1.42|13-JUL-15 10.00.00.000000 PM
+37|1|323|266339|Buffer access - remote cache %|1.39|09-JUL-15 10.00.00.000000 PM
+37|1|323|266340|Buffer access - 	disk %|3.69|09-JUL-15 10.00.00.000000 PM
+37|1|323|266338|Buffer access -  local cache %|94.93|09-JUL-15 10.00.00.000000 PM
+37|1|325|266339|Buffer access - remote cache %|1.32|10-JUL-15 10.00.00.000000 PM
+37|1|325|266338|Buffer access -  local cache %|95.2|10-JUL-15 10.00.00.000000 PM
+37|1|325|266340|Buffer access - 	disk %|3.49|10-JUL-15 10.00.00.000000 PM
+37|1|326|266340|Buffer access - 	disk %|3.39|10-JUL-15 08.00.00.000000 AM
+37|1|326|266338|Buffer access -  local cache %|95.19|10-JUL-15 08.00.00.000000 AM
+37|1|326|266339|Buffer access - remote cache %|1.42|10-JUL-15 08.00.00.000000 AM
+37|1|324|266338|Buffer access -  local cache %|95.09|09-JUL-15 08.00.00.000000 AM
+37|1|324|266339|Buffer access - remote cache %|1.3|09-JUL-15 08.00.00.000000 AM
+37|1|324|266340|Buffer access - 	disk %|3.61|09-JUL-15 08.00.00.000000 AM
+37|1|327|266338|Buffer access -  local cache %|94.51|12-JUL-15 10.00.00.000000 PM
+37|1|327|266340|Buffer access - 	disk %|4.01|12-JUL-15 10.00.00.000000 PM
+37|1|327|266339|Buffer access - remote cache %|1.48|12-JUL-15 10.00.00.000000 PM
+37|1|329|266339|Buffer access - remote cache %|1.34|13-JUL-15 08.00.00.000000 AM
+37|1|329|266338|Buffer access -  local cache %|94.87|13-JUL-15 08.00.00.000000 AM
+37|1|329|266340|Buffer access - 	disk %|3.79|13-JUL-15 08.00.00.000000 AM
+37|1|322|266338|Buffer access -  local cache %|95.15|08-JUL-15 08.00.00.000000 AM
+37|1|322|266339|Buffer access - remote cache %|1.35|08-JUL-15 08.00.00.000000 AM
+37|1|322|266340|Buffer access - 	disk %|3.5|08-JUL-15 08.00.00.000000 AM
+37|1|331|266338|Buffer access -  local cache %|95.11|14-JUL-15 08.00.00.000000 AM
+37|1|331|266339|Buffer access - remote cache %|1.29|14-JUL-15 08.00.00.000000 AM
+37|1|331|266340|Buffer access - 	disk %|3.6|14-JUL-15 08.00.00.000000 AM
+37|1|334|266339|Buffer access - remote cache %|1.47|16-JUL-15 10.00.00.000000 PM
+37|1|334|266340|Buffer access - 	disk %|3.86|16-JUL-15 10.00.00.000000 PM
+37|1|334|266338|Buffer access -  local cache %|94.67|16-JUL-15 10.00.00.000000 PM
+37|1|335|266339|Buffer access - remote cache %|1.41|16-JUL-15 08.00.00.000000 AM
+37|1|335|266340|Buffer access - 	disk %|3.67|16-JUL-15 08.00.00.000000 AM
+37|1|335|266338|Buffer access -  local cache %|94.92|16-JUL-15 08.00.00.000000 AM
+37|1|330|266338|Buffer access -  local cache %|94.66|14-JUL-15 10.00.00.000000 PM
+37|1|330|266339|Buffer access - remote cache %|1.42|14-JUL-15 10.00.00.000000 PM
+37|1|330|266340|Buffer access - 	disk %|3.92|14-JUL-15 10.00.00.000000 PM
+37|1|332|266339|Buffer access - remote cache %|1.52|15-JUL-15 10.00.00.000000 PM
+37|1|332|266340|Buffer access - 	disk %|3.94|15-JUL-15 10.00.00.000000 PM
+37|1|332|266338|Buffer access -  local cache %|94.54|15-JUL-15 10.00.00.000000 PM
+37|1|333|266339|Buffer access - remote cache %|1.4|15-JUL-15 08.00.00.000000 AM
+37|1|333|266340|Buffer access - 	disk %|3.52|15-JUL-15 08.00.00.000000 AM
+37|1|333|266338|Buffer access -  local cache %|95.08|15-JUL-15 08.00.00.000000 AM
+37|1|336|266338|Buffer access -  local cache %|95.29|17-JUL-15 10.00.00.000000 PM
+37|1|336|266339|Buffer access - remote cache %|1.26|17-JUL-15 10.00.00.000000 PM
+37|1|336|266340|Buffer access - 	disk %|3.46|17-JUL-15 10.00.00.000000 PM
+37|1|337|266340|Buffer access - 	disk %|3.64|17-JUL-15 08.00.00.000000 AM
+37|1|337|266339|Buffer access - remote cache %|1.49|17-JUL-15 08.00.00.000000 AM
+37|1|337|266338|Buffer access -  local cache %|94.88|17-JUL-15 08.00.00.000000 AM
+37|1|339|266340|Buffer access - 	disk %|4.27|20-JUL-15 10.00.00.000000 PM
+37|1|339|266339|Buffer access - remote cache %|1.5|20-JUL-15 10.00.00.000000 PM
+37|1|339|266338|Buffer access -  local cache %|94.24|20-JUL-15 10.00.00.000000 PM
+37|1|340|266339|Buffer access - remote cache %|1.48|20-JUL-15 08.00.00.000000 AM
+37|1|340|266340|Buffer access - 	disk %|4.02|20-JUL-15 08.00.00.000000 AM
+37|1|340|266338|Buffer access -  local cache %|94.5|20-JUL-15 08.00.00.000000 AM
+37|1|338|266340|Buffer access - 	disk %|4.26|19-JUL-15 10.00.00.000000 PM
+37|1|338|266338|Buffer access -  local cache %|94.17|19-JUL-15 10.00.00.000000 PM
+37|1|338|266339|Buffer access - remote cache %|1.57|19-JUL-15 10.00.00.000000 PM
+37|1|346|266339|Buffer access - remote cache %|1.44|23-JUL-15 08.00.00.000000 AM
+37|1|346|266338|Buffer access -  local cache %|94.85|23-JUL-15 08.00.00.000000 AM
+37|1|346|266340|Buffer access - 	disk %|3.71|23-JUL-15 08.00.00.000000 AM
+37|1|343|266338|Buffer access -  local cache %|94.36|22-JUL-15 10.00.00.000000 PM
+37|1|343|266340|Buffer access - 	disk %|4.1|22-JUL-15 10.00.00.000000 PM
+37|1|343|266339|Buffer access - remote cache %|1.54|22-JUL-15 10.00.00.000000 PM
+37|1|344|266340|Buffer access - 	disk %|3.59|22-JUL-15 08.00.00.000000 AM
+37|1|344|266338|Buffer access -  local cache %|94.95|22-JUL-15 08.00.00.000000 AM
+37|1|344|266339|Buffer access - remote cache %|1.46|22-JUL-15 08.00.00.000000 AM
+37|1|347|266340|Buffer access - 	disk %|4.22|26-JUL-15 10.00.00.000000 PM
+37|1|347|266338|Buffer access -  local cache %|94.22|26-JUL-15 10.00.00.000000 PM
+37|1|347|266339|Buffer access - remote cache %|1.55|26-JUL-15 10.00.00.000000 PM
+37|1|345|266340|Buffer access - 	disk %|3.71|23-JUL-15 10.00.00.000000 PM
+37|1|345|266339|Buffer access - remote cache %|1.54|23-JUL-15 10.00.00.000000 PM
+37|1|345|266338|Buffer access -  local cache %|94.74|23-JUL-15 10.00.00.000000 PM
+37|1|342|266338|Buffer access -  local cache %|95.11|21-JUL-15 08.00.00.000000 AM
+37|1|342|266339|Buffer access - remote cache %|1.38|21-JUL-15 08.00.00.000000 AM
+37|1|342|266340|Buffer access - 	disk %|3.51|21-JUL-15 08.00.00.000000 AM
+37|1|341|266339|Buffer access - remote cache %|1.51|21-JUL-15 10.00.00.000000 PM
+37|1|341|266340|Buffer access - 	disk %|3.92|21-JUL-15 10.00.00.000000 PM
+37|1|341|266338|Buffer access -  local cache %|94.57|21-JUL-15 10.00.00.000000 PM
+37|1|352|266339|Buffer access - remote cache %|1.55|30-JUL-15 10.00.00.000000 PM
+37|1|352|266338|Buffer access -  local cache %|94.55|30-JUL-15 10.00.00.000000 PM
+37|1|352|266340|Buffer access - 	disk %|3.9|30-JUL-15 10.00.00.000000 PM
+37|1|356|266339|Buffer access - remote cache %|1.61|02-AUG-15 10.00.00.000000 PM
+37|1|356|266338|Buffer access -  local cache %|94.1|02-AUG-15 10.00.00.000000 PM
+37|1|356|266340|Buffer access - 	disk %|4.29|02-AUG-15 10.00.00.000000 PM
+37|1|354|266339|Buffer access - remote cache %|1.43|31-JUL-15 10.00.00.000000 PM
+37|1|354|266338|Buffer access -  local cache %|94.85|31-JUL-15 10.00.00.000000 PM
+37|1|354|266340|Buffer access - 	disk %|3.72|31-JUL-15 10.00.00.000000 PM
+37|1|355|266338|Buffer access -  local cache %|94.71|31-JUL-15 08.00.00.000000 AM
+37|1|355|266339|Buffer access - remote cache %|1.53|31-JUL-15 08.00.00.000000 AM
+37|1|355|266340|Buffer access - 	disk %|3.76|31-JUL-15 08.00.00.000000 AM
+37|1|351|266338|Buffer access -  local cache %|94.89|29-JUL-15 08.00.00.000000 AM
+37|1|351|266339|Buffer access - remote cache %|1.48|29-JUL-15 08.00.00.000000 AM
+37|1|351|266340|Buffer access - 	disk %|3.63|29-JUL-15 08.00.00.000000 AM
+37|1|357|266340|Buffer access - 	disk %|3.87|03-AUG-15 10.00.00.000000 PM
+37|1|357|266338|Buffer access -  local cache %|94.57|03-AUG-15 10.00.00.000000 PM
+37|1|357|266339|Buffer access - remote cache %|1.55|03-AUG-15 10.00.00.000000 PM
+37|1|358|266338|Buffer access -  local cache %|94.59|03-AUG-15 08.00.00.000000 AM
+37|1|358|266339|Buffer access - remote cache %|1.55|03-AUG-15 08.00.00.000000 AM
+37|1|358|266340|Buffer access - 	disk %|3.85|03-AUG-15 08.00.00.000000 AM
+37|1|353|266339|Buffer access - remote cache %|1.45|30-JUL-15 08.00.00.000000 AM
+37|1|353|266340|Buffer access - 	disk %|3.65|30-JUL-15 08.00.00.000000 AM
+37|1|353|266338|Buffer access -  local cache %|94.89|30-JUL-15 08.00.00.000000 AM
+37|1|348|266339|Buffer access - remote cache %|1.56|28-JUL-15 10.00.00.000000 PM
+37|1|348|266340|Buffer access - 	disk %|4.02|28-JUL-15 10.00.00.000000 PM
+37|1|348|266338|Buffer access -  local cache %|94.42|28-JUL-15 10.00.00.000000 PM
+37|1|349|266340|Buffer access - 	disk %|3.7|28-JUL-15 08.00.00.000000 AM
+37|1|349|266338|Buffer access -  local cache %|94.86|28-JUL-15 08.00.00.000000 AM
+37|1|349|266339|Buffer access - remote cache %|1.45|28-JUL-15 08.00.00.000000 AM
+37|1|350|266339|Buffer access - remote cache %|1.6|29-JUL-15 10.00.00.000000 PM
+37|1|350|266340|Buffer access - 	disk %|4.04|29-JUL-15 10.00.00.000000 PM
+37|1|350|266338|Buffer access -  local cache %|94.36|29-JUL-15 10.00.00.000000 PM
+37|1|359|266340|Buffer access - 	disk %|4.03|04-AUG-15 10.00.00.000000 PM
+37|1|359|266338|Buffer access -  local cache %|94.39|04-AUG-15 10.00.00.000000 PM
+37|1|359|266339|Buffer access - remote cache %|1.58|04-AUG-15 10.00.00.000000 PM
+37|1|360|266338|Buffer access -  local cache %|94.74|04-AUG-15 08.00.00.000000 AM
+37|1|360|266340|Buffer access - 	disk %|3.8|04-AUG-15 08.00.00.000000 AM
+37|1|360|266339|Buffer access - remote cache %|1.46|04-AUG-15 08.00.00.000000 AM
+37|1|361|266339|Buffer access - remote cache %|1.56|05-AUG-15 10.00.00.000000 PM
+37|1|361|266338|Buffer access -  local cache %|94.58|05-AUG-15 10.00.00.000000 PM
+37|1|361|266340|Buffer access - 	disk %|3.86|05-AUG-15 10.00.00.000000 PM
+37|1|365|266338|Buffer access -  local cache %|94.23|07-AUG-15 08.00.00.000000 AM
+37|1|365|266340|Buffer access - 	disk %|4.07|07-AUG-15 08.00.00.000000 AM
+37|1|365|266339|Buffer access - remote cache %|1.7|07-AUG-15 08.00.00.000000 AM
+37|1|366|266339|Buffer access - remote cache %|1.62|09-AUG-15 10.00.00.000000 PM
+37|1|366|266338|Buffer access -  local cache %|94.31|09-AUG-15 10.00.00.000000 PM
+37|1|366|266340|Buffer access - 	disk %|4.06|09-AUG-15 10.00.00.000000 PM
+37|1|367|266340|Buffer access - 	disk %|3.89|10-AUG-15 10.00.00.000000 PM
+37|1|367|266338|Buffer access -  local cache %|94.74|10-AUG-15 10.00.00.000000 PM
+37|1|367|266339|Buffer access - remote cache %|1.37|10-AUG-15 10.00.00.000000 PM
+37|1|362|266339|Buffer access - remote cache %|1.41|05-AUG-15 08.00.00.000000 AM
+37|1|362|266338|Buffer access -  local cache %|95.16|05-AUG-15 08.00.00.000000 AM
+37|1|362|266340|Buffer access - 	disk %|3.44|05-AUG-15 08.00.00.000000 AM
+37|1|363|266338|Buffer access -  local cache %|94.56|06-AUG-15 10.00.00.000000 PM
+37|1|363|266340|Buffer access - 	disk %|3.88|06-AUG-15 10.00.00.000000 PM
+37|1|363|266339|Buffer access - remote cache %|1.56|06-AUG-15 10.00.00.000000 PM
+37|1|364|266338|Buffer access -  local cache %|94.68|06-AUG-15 08.00.00.000000 AM
+37|1|364|266340|Buffer access - 	disk %|3.83|06-AUG-15 08.00.00.000000 AM
+37|1|364|266339|Buffer access - remote cache %|1.49|06-AUG-15 08.00.00.000000 AM
+37|1|370|266338|Buffer access -  local cache %|94.48|12-AUG-15 10.00.00.000000 PM
+37|1|370|266339|Buffer access - remote cache %|1.5|12-AUG-15 10.00.00.000000 PM
+37|1|370|266340|Buffer access - 	disk %|4.02|12-AUG-15 10.00.00.000000 PM
+37|1|378|266339|Buffer access - remote cache %|1.39|17-AUG-15 08.00.00.000000 AM
+37|1|378|266340|Buffer access - 	disk %|4.87|17-AUG-15 08.00.00.000000 AM
+37|1|378|266338|Buffer access -  local cache %|93.75|17-AUG-15 08.00.00.000000 AM
+37|1|373|266338|Buffer access -  local cache %|94.92|13-AUG-15 08.00.00.000000 AM
+37|1|373|266339|Buffer access - remote cache %|1.32|13-AUG-15 08.00.00.000000 AM
+37|1|373|266340|Buffer access - 	disk %|3.76|13-AUG-15 08.00.00.000000 AM
+37|1|375|266338|Buffer access -  local cache %|94.81|14-AUG-15 08.00.00.000000 AM
+37|1|375|266340|Buffer access - 	disk %|3.81|14-AUG-15 08.00.00.000000 AM
+37|1|375|266339|Buffer access - remote cache %|1.38|14-AUG-15 08.00.00.000000 AM
+37|1|369|266339|Buffer access - remote cache %|1.29|11-AUG-15 08.00.00.000000 AM
+37|1|369|266340|Buffer access - 	disk %|3.75|11-AUG-15 08.00.00.000000 AM
+37|1|369|266338|Buffer access -  local cache %|94.96|11-AUG-15 08.00.00.000000 AM
+37|1|377|266339|Buffer access - remote cache %|1.48|17-AUG-15 10.00.00.000000 PM
+37|1|377|266340|Buffer access - 	disk %|5.21|17-AUG-15 10.00.00.000000 PM
+37|1|377|266338|Buffer access -  local cache %|93.32|17-AUG-15 10.00.00.000000 PM
+37|1|374|266339|Buffer access - remote cache %|1.29|14-AUG-15 10.00.00.000000 PM
+37|1|374|266340|Buffer access - 	disk %|3.44|14-AUG-15 10.00.00.000000 PM
+37|1|374|266338|Buffer access -  local cache %|95.27|14-AUG-15 10.00.00.000000 PM
+37|1|376|266338|Buffer access -  local cache %|92.92|16-AUG-15 10.00.00.000000 PM
+37|1|376|266340|Buffer access - 	disk %|5.58|16-AUG-15 10.00.00.000000 PM
+37|1|376|266339|Buffer access - remote cache %|1.5|16-AUG-15 10.00.00.000000 PM
+37|1|371|266339|Buffer access - remote cache %|1.28|12-AUG-15 08.00.00.000000 AM
+37|1|371|266338|Buffer access -  local cache %|94.77|12-AUG-15 08.00.00.000000 AM
+37|1|371|266340|Buffer access - 	disk %|3.95|12-AUG-15 08.00.00.000000 AM
+37|1|372|266338|Buffer access -  local cache %|94.55|13-AUG-15 10.00.00.000000 PM
+37|1|372|266340|Buffer access - 	disk %|3.94|13-AUG-15 10.00.00.000000 PM
+37|1|372|266339|Buffer access - remote cache %|1.51|13-AUG-15 10.00.00.000000 PM
+37|1|368|266338|Buffer access -  local cache %|94.61|11-AUG-15 10.00.00.000000 PM
+37|1|368|266339|Buffer access - remote cache %|1.42|11-AUG-15 10.00.00.000000 PM
+37|1|368|266340|Buffer access - 	disk %|3.97|11-AUG-15 10.00.00.000000 PM
+37|1|382|266339|Buffer access - remote cache %|1.39|19-AUG-15 08.00.00.000000 AM
+37|1|382|266338|Buffer access -  local cache %|93.96|19-AUG-15 08.00.00.000000 AM
+37|1|382|266340|Buffer access - 	disk %|4.65|19-AUG-15 08.00.00.000000 AM
+37|1|383|266340|Buffer access - 	disk %|5.01|20-AUG-15 10.00.00.000000 PM
+37|1|383|266339|Buffer access - remote cache %|1.58|20-AUG-15 10.00.00.000000 PM
+37|1|383|266338|Buffer access -  local cache %|93.4|20-AUG-15 10.00.00.000000 PM
+37|1|385|266339|Buffer access - remote cache %|1.39|21-AUG-15 10.00.00.000000 PM
+37|1|385|266340|Buffer access - 	disk %|4.58|21-AUG-15 10.00.00.000000 PM
+37|1|385|266338|Buffer access -  local cache %|94.03|21-AUG-15 10.00.00.000000 PM
+37|1|387|266340|Buffer access - 	disk %|5.06|23-AUG-15 10.00.00.000000 PM
+37|1|387|266338|Buffer access -  local cache %|93.41|23-AUG-15 10.00.00.000000 PM
+37|1|387|266339|Buffer access - remote cache %|1.52|23-AUG-15 10.00.00.000000 PM
+37|1|379|266340|Buffer access - 	disk %|4.79|18-AUG-15 10.00.00.000000 PM
+37|1|379|266339|Buffer access - remote cache %|1.47|18-AUG-15 10.00.00.000000 PM
+37|1|379|266338|Buffer access -  local cache %|93.74|18-AUG-15 10.00.00.000000 PM
+37|1|389|266340|Buffer access - 	disk %|4.65|24-AUG-15 08.00.00.000000 AM
+37|1|389|266339|Buffer access - remote cache %|1.36|24-AUG-15 08.00.00.000000 AM
+37|1|389|266338|Buffer access -  local cache %|93.99|24-AUG-15 08.00.00.000000 AM
+37|1|386|266338|Buffer access -  local cache %|94.1|21-AUG-15 08.00.00.000000 AM
+37|1|386|266340|Buffer access - 	disk %|4.49|21-AUG-15 08.00.00.000000 AM
+37|1|386|266339|Buffer access - remote cache %|1.42|21-AUG-15 08.00.00.000000 AM
+37|1|381|266338|Buffer access -  local cache %|93.47|19-AUG-15 10.00.00.000000 PM
+37|1|381|266339|Buffer access - remote cache %|1.56|19-AUG-15 10.00.00.000000 PM
+37|1|381|266340|Buffer access - 	disk %|4.98|19-AUG-15 10.00.00.000000 PM
+37|1|380|266339|Buffer access - remote cache %|1.34|18-AUG-15 08.00.00.000000 AM
+37|1|380|266338|Buffer access -  local cache %|94.05|18-AUG-15 08.00.00.000000 AM
+37|1|380|266340|Buffer access - 	disk %|4.61|18-AUG-15 08.00.00.000000 AM
+37|1|384|266340|Buffer access - 	disk %|4.53|20-AUG-15 08.00.00.000000 AM
+37|1|384|266338|Buffer access -  local cache %|94.1|20-AUG-15 08.00.00.000000 AM
+37|1|384|266339|Buffer access - remote cache %|1.37|20-AUG-15 08.00.00.000000 AM
+37|1|388|266338|Buffer access -  local cache %|93.67|24-AUG-15 10.00.00.000000 PM
+37|1|388|266339|Buffer access - remote cache %|1.54|24-AUG-15 10.00.00.000000 PM
+37|1|388|266340|Buffer access - 	disk %|4.79|24-AUG-15 10.00.00.000000 PM
+37|1|394|266340|Buffer access - 	disk %|4.57|27-AUG-15 10.00.00.000000 PM
+37|1|394|266338|Buffer access -  local cache %|93.82|27-AUG-15 10.00.00.000000 PM
+37|1|394|266339|Buffer access - remote cache %|1.61|27-AUG-15 10.00.00.000000 PM
+37|1|396|266340|Buffer access - 	disk %|4.04|28-AUG-15 10.00.00.000000 PM
+37|1|396|266338|Buffer access -  local cache %|94.53|28-AUG-15 10.00.00.000000 PM
+37|1|396|266339|Buffer access - remote cache %|1.43|28-AUG-15 10.00.00.000000 PM
+37|1|397|266338|Buffer access -  local cache %|94.21|28-AUG-15 08.00.00.000000 AM
+37|1|397|266339|Buffer access - remote cache %|1.4|28-AUG-15 08.00.00.000000 AM
+37|1|397|266340|Buffer access - 	disk %|4.39|28-AUG-15 08.00.00.000000 AM
+37|1|395|266340|Buffer access - 	disk %|4.54|27-AUG-15 08.00.00.000000 AM
+37|1|395|266338|Buffer access -  local cache %|94.06|27-AUG-15 08.00.00.000000 AM
+37|1|395|266339|Buffer access - remote cache %|1.4|27-AUG-15 08.00.00.000000 AM
+37|1|399|266338|Buffer access -  local cache %|93.53|31-AUG-15 10.00.00.000000 PM
+37|1|399|266339|Buffer access - remote cache %|1.51|31-AUG-15 10.00.00.000000 PM
+37|1|399|266340|Buffer access - 	disk %|4.96|31-AUG-15 10.00.00.000000 PM
+37|1|398|266340|Buffer access - 	disk %|5.13|30-AUG-15 10.00.00.000000 PM
+37|1|398|266338|Buffer access -  local cache %|93.28|30-AUG-15 10.00.00.000000 PM
+37|1|398|266339|Buffer access - remote cache %|1.6|30-AUG-15 10.00.00.000000 PM
+37|1|400|266340|Buffer access - 	disk %|4.99|31-AUG-15 08.00.00.000000 AM
+37|1|400|266338|Buffer access -  local cache %|93.65|31-AUG-15 08.00.00.000000 AM
+37|1|400|266339|Buffer access - remote cache %|1.36|31-AUG-15 08.00.00.000000 AM
+37|1|391|266338|Buffer access -  local cache %|94.43|25-AUG-15 08.00.00.000000 AM
+37|1|391|266339|Buffer access - remote cache %|1.28|25-AUG-15 08.00.00.000000 AM
+37|1|391|266340|Buffer access - 	disk %|4.29|25-AUG-15 08.00.00.000000 AM
+37|1|392|266338|Buffer access -  local cache %|93.54|26-AUG-15 10.00.00.000000 PM
+37|1|392|266339|Buffer access - remote cache %|1.58|26-AUG-15 10.00.00.000000 PM
+37|1|392|266340|Buffer access - 	disk %|4.88|26-AUG-15 10.00.00.000000 PM
+37|1|393|266340|Buffer access - 	disk %|4.61|26-AUG-15 08.00.00.000000 AM
+37|1|393|266338|Buffer access -  local cache %|94.07|26-AUG-15 08.00.00.000000 AM
+37|1|393|266339|Buffer access - remote cache %|1.32|26-AUG-15 08.00.00.000000 AM
+37|1|390|266338|Buffer access -  local cache %|93.79|25-AUG-15 10.00.00.000000 PM
+37|1|390|266339|Buffer access - remote cache %|1.46|25-AUG-15 10.00.00.000000 PM
+37|1|390|266340|Buffer access - 	disk %|4.75|25-AUG-15 10.00.00.000000 PM
+37|1|403|266338|Buffer access -  local cache %|94.03|02-SEP-15 10.00.00.000000 PM
+37|1|403|266340|Buffer access - 	disk %|4.49|02-SEP-15 10.00.00.000000 PM
+37|1|403|266339|Buffer access - remote cache %|1.48|02-SEP-15 10.00.00.000000 PM
+37|1|404|266338|Buffer access -  local cache %|94.48|02-SEP-15 08.00.00.000000 AM
+37|1|404|266339|Buffer access - remote cache %|1.31|02-SEP-15 08.00.00.000000 AM
+37|1|404|266340|Buffer access - 	disk %|4.22|02-SEP-15 08.00.00.000000 AM
+37|1|402|266338|Buffer access -  local cache %|94.33|01-SEP-15 08.00.00.000000 AM
+37|1|402|266339|Buffer access - remote cache %|1.29|01-SEP-15 08.00.00.000000 AM
+37|1|402|266340|Buffer access - 	disk %|4.37|01-SEP-15 08.00.00.000000 AM
+37|1|401|266338|Buffer access -  local cache %|93.67|01-SEP-15 10.00.00.000000 PM
+37|1|401|266339|Buffer access - remote cache %|1.47|01-SEP-15 10.00.00.000000 PM
+37|1|401|266340|Buffer access - 	disk %|4.85|01-SEP-15 10.00.00.000000 PM
+37|1|405|266339|Buffer access - remote cache %|1.73|06-SEP-15 10.00.00.000000 PM
+37|1|405|266338|Buffer access -  local cache %|93.83|06-SEP-15 10.00.00.000000 PM
+37|1|405|266340|Buffer access - 	disk %|4.44|06-SEP-15 10.00.00.000000 PM
+37|1|406|266339|Buffer access - remote cache %|1.77|07-SEP-15 10.00.00.000000 PM
+37|1|406|266338|Buffer access -  local cache %|92.97|07-SEP-15 10.00.00.000000 PM
+37|1|406|266340|Buffer access - 	disk %|5.26|07-SEP-15 10.00.00.000000 PM
+37|1|407|266340|Buffer access - 	disk %|5.18|07-SEP-15 08.00.00.000000 AM
+37|1|407|266339|Buffer access - remote cache %|1.77|07-SEP-15 08.00.00.000000 AM
+37|1|407|266338|Buffer access -  local cache %|93.05|07-SEP-15 08.00.00.000000 AM
+37|1|408|266340|Buffer access - 	disk %|4.86|08-SEP-15 10.00.00.000000 PM
+37|1|408|266338|Buffer access -  local cache %|93.41|08-SEP-15 10.00.00.000000 PM
+37|1|408|266339|Buffer access - remote cache %|1.73|08-SEP-15 10.00.00.000000 PM
+37|1|411|266340|Buffer access - 	disk %|4.31|09-SEP-15 08.00.00.000000 AM
+37|1|411|266338|Buffer access -  local cache %|94.04|09-SEP-15 08.00.00.000000 AM
+37|1|411|266339|Buffer access - remote cache %|1.65|09-SEP-15 08.00.00.000000 AM
+37|1|414|266340|Buffer access - 	disk %|4.76|13-SEP-15 10.00.00.000000 PM
+37|1|414|266339|Buffer access - remote cache %|1.83|13-SEP-15 10.00.00.000000 PM
+37|1|414|266338|Buffer access -  local cache %|93.41|13-SEP-15 10.00.00.000000 PM
+37|1|413|266339|Buffer access - remote cache %|1.68|10-SEP-15 08.00.00.000000 AM
+37|1|413|266338|Buffer access -  local cache %|94.35|10-SEP-15 08.00.00.000000 AM
+37|1|413|266340|Buffer access - 	disk %|3.97|10-SEP-15 08.00.00.000000 AM
+37|1|416|266339|Buffer access - remote cache %|1.55|14-SEP-15 08.00.00.000000 AM
+37|1|416|266338|Buffer access -  local cache %|93.72|14-SEP-15 08.00.00.000000 AM
+37|1|416|266340|Buffer access - 	disk %|4.73|14-SEP-15 08.00.00.000000 AM
+37|1|410|266339|Buffer access - remote cache %|1.81|09-SEP-15 10.00.00.000000 PM
+37|1|410|266338|Buffer access -  local cache %|93.57|09-SEP-15 10.00.00.000000 PM
+37|1|410|266340|Buffer access - 	disk %|4.63|09-SEP-15 10.00.00.000000 PM
+37|1|409|266339|Buffer access - remote cache %|1.65|08-SEP-15 08.00.00.000000 AM
+37|1|409|266338|Buffer access -  local cache %|93.81|08-SEP-15 08.00.00.000000 AM
+37|1|409|266340|Buffer access - 	disk %|4.54|08-SEP-15 08.00.00.000000 AM
+37|1|412|266338|Buffer access -  local cache %|93.8|10-SEP-15 10.00.00.000000 PM
+37|1|412|266339|Buffer access - remote cache %|1.83|10-SEP-15 10.00.00.000000 PM
+37|1|412|266340|Buffer access - 	disk %|4.37|10-SEP-15 10.00.00.000000 PM
+37|1|415|266339|Buffer access - remote cache %|1.68|14-SEP-15 10.00.00.000000 PM
+37|1|415|266338|Buffer access -  local cache %|93.56|14-SEP-15 10.00.00.000000 PM
+37|1|415|266340|Buffer access - 	disk %|4.77|14-SEP-15 10.00.00.000000 PM
+37|1|423|266339|Buffer access - remote cache %|1.65|18-SEP-15 10.00.00.000000 PM
+37|1|423|266340|Buffer access - 	disk %|4.15|18-SEP-15 10.00.00.000000 PM
+37|1|423|266338|Buffer access -  local cache %|94.2|18-SEP-15 10.00.00.000000 PM
+37|1|424|266340|Buffer access - 	disk %|4.52|18-SEP-15 08.00.00.000000 AM
+37|1|424|266338|Buffer access -  local cache %|93.8|18-SEP-15 08.00.00.000000 AM
+37|1|424|266339|Buffer access - remote cache %|1.68|18-SEP-15 08.00.00.000000 AM
+37|1|425|266338|Buffer access -  local cache %|92.77|20-SEP-15 10.00.00.000000 PM
+37|1|425|266340|Buffer access - 	disk %|5.25|20-SEP-15 10.00.00.000000 PM
+37|1|425|266339|Buffer access - remote cache %|1.98|20-SEP-15 10.00.00.000000 PM
+37|1|426|266338|Buffer access -  local cache %|92.71|21-SEP-15 10.00.00.000000 PM
+37|1|426|266339|Buffer access - remote cache %|1.84|21-SEP-15 10.00.00.000000 PM
+37|1|426|266340|Buffer access - 	disk %|5.45|21-SEP-15 10.00.00.000000 PM
+37|1|427|266338|Buffer access -  local cache %|93.63|21-SEP-15 08.00.00.000000 AM
+37|1|427|266339|Buffer access - remote cache %|1.69|21-SEP-15 08.00.00.000000 AM
+37|1|427|266340|Buffer access - 	disk %|4.68|21-SEP-15 08.00.00.000000 AM
+37|1|417|266339|Buffer access - remote cache %|1.67|15-SEP-15 10.00.00.000000 PM
+37|1|417|266340|Buffer access - 	disk %|5.03|15-SEP-15 10.00.00.000000 PM
+37|1|417|266338|Buffer access -  local cache %|93.3|15-SEP-15 10.00.00.000000 PM
+37|1|419|266338|Buffer access -  local cache %|93.17|16-SEP-15 10.00.00.000000 PM
+37|1|419|266339|Buffer access - remote cache %|1.79|16-SEP-15 10.00.00.000000 PM
+37|1|419|266340|Buffer access - 	disk %|5.04|16-SEP-15 10.00.00.000000 PM
+37|1|420|266338|Buffer access -  local cache %|93.91|16-SEP-15 08.00.00.000000 AM
+37|1|420|266339|Buffer access - remote cache %|1.6|16-SEP-15 08.00.00.000000 AM
+37|1|420|266340|Buffer access - 	disk %|4.5|16-SEP-15 08.00.00.000000 AM
+37|1|421|266339|Buffer access - remote cache %|1.76|17-SEP-15 10.00.00.000000 PM
+37|1|421|266340|Buffer access - 	disk %|4.51|17-SEP-15 10.00.00.000000 PM
+37|1|421|266338|Buffer access -  local cache %|93.73|17-SEP-15 10.00.00.000000 PM
+37|1|422|266338|Buffer access -  local cache %|94.02|17-SEP-15 08.00.00.000000 AM
+37|1|422|266339|Buffer access - remote cache %|1.66|17-SEP-15 08.00.00.000000 AM
+37|1|422|266340|Buffer access - 	disk %|4.32|17-SEP-15 08.00.00.000000 AM
+37|1|418|266340|Buffer access - 	disk %|4.6|15-SEP-15 08.00.00.000000 AM
+37|1|418|266338|Buffer access -  local cache %|93.85|15-SEP-15 08.00.00.000000 AM
+37|1|418|266339|Buffer access - remote cache %|1.56|15-SEP-15 08.00.00.000000 AM
+37|1|433|266338|Buffer access -  local cache %|93.83|24-SEP-15 08.00.00.000000 AM
+37|1|433|266339|Buffer access - remote cache %|1.77|24-SEP-15 08.00.00.000000 AM
+37|1|433|266340|Buffer access - 	disk %|4.39|24-SEP-15 08.00.00.000000 AM
+37|1|430|266340|Buffer access - 	disk %|4.53|23-SEP-15 10.00.00.000000 PM
+37|1|430|266339|Buffer access - remote cache %|1.94|23-SEP-15 10.00.00.000000 PM
+37|1|430|266338|Buffer access -  local cache %|93.53|23-SEP-15 10.00.00.000000 PM
+37|1|431|266340|Buffer access - 	disk %|4.74|23-SEP-15 08.00.00.000000 AM
+37|1|431|266338|Buffer access -  local cache %|93.47|23-SEP-15 08.00.00.000000 AM
+37|1|431|266339|Buffer access - remote cache %|1.79|23-SEP-15 08.00.00.000000 AM
+37|1|435|266339|Buffer access - remote cache %|1.81|25-SEP-15 08.00.00.000000 AM
+37|1|435|266338|Buffer access -  local cache %|93.81|25-SEP-15 08.00.00.000000 AM
+37|1|435|266340|Buffer access - 	disk %|4.38|25-SEP-15 08.00.00.000000 AM
+37|1|436|266339|Buffer access - remote cache %|1.9|27-SEP-15 10.00.00.000000 PM
+37|1|436|266338|Buffer access -  local cache %|93.64|27-SEP-15 10.00.00.000000 PM
+37|1|436|266340|Buffer access - 	disk %|4.46|27-SEP-15 10.00.00.000000 PM
+37|1|432|266340|Buffer access - 	disk %|4.34|24-SEP-15 10.00.00.000000 PM
+37|1|432|266339|Buffer access - remote cache %|1.88|24-SEP-15 10.00.00.000000 PM
+37|1|432|266338|Buffer access -  local cache %|93.78|24-SEP-15 10.00.00.000000 PM
+37|1|428|266340|Buffer access - 	disk %|4.99|22-SEP-15 10.00.00.000000 PM
+37|1|428|266339|Buffer access - remote cache %|1.84|22-SEP-15 10.00.00.000000 PM
+37|1|428|266338|Buffer access -  local cache %|93.17|22-SEP-15 10.00.00.000000 PM
+37|1|429|266340|Buffer access - 	disk %|4.49|22-SEP-15 08.00.00.000000 AM
+37|1|429|266338|Buffer access -  local cache %|93.75|22-SEP-15 08.00.00.000000 AM
+37|1|429|266339|Buffer access - remote cache %|1.76|22-SEP-15 08.00.00.000000 AM
+37|1|437|266340|Buffer access - 	disk %|4.49|28-SEP-15 10.00.00.000000 PM
+37|1|437|266339|Buffer access - remote cache %|1.5|28-SEP-15 10.00.00.000000 PM
+37|1|437|266338|Buffer access -  local cache %|94.01|28-SEP-15 10.00.00.000000 PM
+37|1|438|266338|Buffer access -  local cache %|93.35|28-SEP-15 08.00.00.000000 AM
+37|1|438|266340|Buffer access - 	disk %|5.14|28-SEP-15 08.00.00.000000 AM
+37|1|438|266339|Buffer access - remote cache %|1.51|28-SEP-15 08.00.00.000000 AM
+37|1|434|266339|Buffer access - remote cache %|1.77|25-SEP-15 10.00.00.000000 PM
+37|1|434|266338|Buffer access -  local cache %|94.16|25-SEP-15 10.00.00.000000 PM
+37|1|434|266340|Buffer access - 	disk %|4.07|25-SEP-15 10.00.00.000000 PM
+37|1|444|266338|Buffer access -  local cache %|94.4|01-OCT-15 08.00.00.000000 AM
+37|1|444|266340|Buffer access - 	disk %|4.14|01-OCT-15 08.00.00.000000 AM
+37|1|444|266339|Buffer access - remote cache %|1.46|01-OCT-15 08.00.00.000000 AM
+37|1|439|266340|Buffer access - 	disk %|4.49|29-SEP-15 10.00.00.000000 PM
+37|1|439|266339|Buffer access - remote cache %|1.53|29-SEP-15 10.00.00.000000 PM
+37|1|439|266338|Buffer access -  local cache %|93.98|29-SEP-15 10.00.00.000000 PM
+37|1|440|266338|Buffer access -  local cache %|94.07|29-SEP-15 08.00.00.000000 AM
+37|1|440|266339|Buffer access - remote cache %|1.41|29-SEP-15 08.00.00.000000 AM
+37|1|440|266340|Buffer access - 	disk %|4.52|29-SEP-15 08.00.00.000000 AM
+37|1|441|266338|Buffer access -  local cache %|94.23|30-SEP-15 10.00.00.000000 PM
+37|1|441|266339|Buffer access - remote cache %|1.54|30-SEP-15 10.00.00.000000 PM
+37|1|441|266340|Buffer access - 	disk %|4.22|30-SEP-15 10.00.00.000000 PM
+37|1|442|266339|Buffer access - remote cache %|1.43|30-SEP-15 08.00.00.000000 AM
+37|1|442|266340|Buffer access - 	disk %|4.33|30-SEP-15 08.00.00.000000 AM
+37|1|442|266338|Buffer access -  local cache %|94.24|30-SEP-15 08.00.00.000000 AM
+37|1|443|266338|Buffer access -  local cache %|94.26|01-OCT-15 10.00.00.000000 PM
+37|1|443|266339|Buffer access - remote cache %|1.55|01-OCT-15 10.00.00.000000 PM
+37|1|443|266340|Buffer access - 	disk %|4.19|01-OCT-15 10.00.00.000000 PM
+37|1|447|266338|Buffer access -  local cache %|93.47|08-OCT-15 03.00.00.000000 PM
+37|1|447|266339|Buffer access - remote cache %|1.69|08-OCT-15 03.00.00.000000 PM
+37|1|447|266340|Buffer access - 	disk %|4.84|08-OCT-15 03.00.00.000000 PM
+37|1|448|266338|Buffer access -  local cache %|92.89|09-OCT-15 03.00.00.000000 PM
+37|1|448|266339|Buffer access - remote cache %|1.53|09-OCT-15 03.00.00.000000 PM
+37|1|448|266340|Buffer access - 	disk %|5.57|09-OCT-15 03.00.00.000000 PM
+37|1|449|266340|Buffer access - 	disk %|5.68|12-OCT-15 03.00.00.000000 PM
+37|1|449|266339|Buffer access - remote cache %|1.51|12-OCT-15 03.00.00.000000 PM
+37|1|449|266338|Buffer access -  local cache %|92.81|12-OCT-15 03.00.00.000000 PM
+37|1|446|266339|Buffer access - remote cache %|1.5|07-OCT-15 03.00.00.000000 PM
+37|1|446|266338|Buffer access -  local cache %|94.36|07-OCT-15 03.00.00.000000 PM
+37|1|446|266340|Buffer access - 	disk %|4.14|07-OCT-15 03.00.00.000000 PM
+37|1|445|266338|Buffer access -  local cache %|94.46|06-OCT-15 03.00.00.000000 PM
+37|1|445|266339|Buffer access - remote cache %|1.46|06-OCT-15 03.00.00.000000 PM
+37|1|445|266340|Buffer access - 	disk %|4.09|06-OCT-15 03.00.00.000000 PM
+37|1|450|266338|Buffer access -  local cache %|93.01|13-OCT-15 03.00.00.000000 PM
+37|1|450|266340|Buffer access - 	disk %|5.52|13-OCT-15 03.00.00.000000 PM
+37|1|450|266339|Buffer access - remote cache %|1.47|13-OCT-15 03.00.00.000000 PM
+37|1|452|266340|Buffer access - 	disk %|5.46|15-OCT-15 03.00.00.000000 PM
+37|1|452|266338|Buffer access -  local cache %|93.11|15-OCT-15 03.00.00.000000 PM
+37|1|452|266339|Buffer access - remote cache %|1.44|15-OCT-15 03.00.00.000000 PM
+37|1|454|266339|Buffer access - remote cache %|1.61|19-OCT-15 03.00.00.000000 PM
+37|1|454|266340|Buffer access - 	disk %|5.28|19-OCT-15 03.00.00.000000 PM
+37|1|454|266338|Buffer access -  local cache %|93.11|19-OCT-15 03.00.00.000000 PM
+37|1|451|266338|Buffer access -  local cache %|93.32|14-OCT-15 03.00.00.000000 PM
+37|1|451|266339|Buffer access - remote cache %|1.41|14-OCT-15 03.00.00.000000 PM
+37|1|451|266340|Buffer access - 	disk %|5.28|14-OCT-15 03.00.00.000000 PM
+37|1|453|266339|Buffer access - remote cache %|1.52|16-OCT-15 03.00.00.000000 PM
+37|1|453|266338|Buffer access -  local cache %|93.01|16-OCT-15 03.00.00.000000 PM
+37|1|453|266340|Buffer access - 	disk %|5.48|16-OCT-15 03.00.00.000000 PM
+37|1|459|266338|Buffer access -  local cache %|92.6|26-OCT-15 03.00.00.000000 PM
+37|1|459|266339|Buffer access - remote cache %|1.55|26-OCT-15 03.00.00.000000 PM
+37|1|459|266340|Buffer access - 	disk %|5.85|26-OCT-15 03.00.00.000000 PM
+37|1|457|266339|Buffer access - remote cache %|1.64|22-OCT-15 03.00.00.000000 PM
+37|1|457|266338|Buffer access -  local cache %|92.86|22-OCT-15 03.00.00.000000 PM
+37|1|457|266340|Buffer access - 	disk %|5.5|22-OCT-15 03.00.00.000000 PM
+37|1|455|266339|Buffer access - remote cache %|1.6|20-OCT-15 03.00.00.000000 PM
+37|1|455|266338|Buffer access -  local cache %|92.95|20-OCT-15 03.00.00.000000 PM
+37|1|455|266340|Buffer access - 	disk %|5.45|20-OCT-15 03.00.00.000000 PM
+37|1|458|266339|Buffer access - remote cache %|1.79|23-OCT-15 03.00.00.000000 PM
+37|1|458|266338|Buffer access -  local cache %|92.62|23-OCT-15 03.00.00.000000 PM
+37|1|458|266340|Buffer access - 	disk %|5.59|23-OCT-15 03.00.00.000000 PM
+37|1|456|266339|Buffer access - remote cache %|1.58|21-OCT-15 03.00.00.000000 PM
+37|1|456|266340|Buffer access - 	disk %|5.16|21-OCT-15 03.00.00.000000 PM
+37|1|456|266338|Buffer access -  local cache %|93.27|21-OCT-15 03.00.00.000000 PM
+37|1|462|266338|Buffer access -  local cache %|92.32|29-OCT-15 03.00.00.000000 PM
+37|1|462|266340|Buffer access - 	disk %|6.11|29-OCT-15 03.00.00.000000 PM
+37|1|462|266339|Buffer access - remote cache %|1.57|29-OCT-15 03.00.00.000000 PM
+37|1|460|266338|Buffer access -  local cache %|92.76|27-OCT-15 03.00.00.000000 PM
+37|1|460|266339|Buffer access - remote cache %|1.54|27-OCT-15 03.00.00.000000 PM
+37|1|460|266340|Buffer access - 	disk %|5.7|27-OCT-15 03.00.00.000000 PM
+37|1|463|266339|Buffer access - remote cache %|1.55|30-OCT-15 03.00.00.000000 PM
+37|1|463|266340|Buffer access - 	disk %|5.8|30-OCT-15 03.00.00.000000 PM
+37|1|463|266338|Buffer access -  local cache %|92.65|30-OCT-15 03.00.00.000000 PM
+37|1|461|266338|Buffer access -  local cache %|92.59|28-OCT-15 03.00.00.000000 PM
+37|1|461|266340|Buffer access - 	disk %|5.84|28-OCT-15 03.00.00.000000 PM
+37|1|461|266339|Buffer access - remote cache %|1.56|28-OCT-15 03.00.00.000000 PM
+37|1|464|266339|Buffer access - remote cache %|1.55|02-NOV-15 03.00.00.000000 PM
+37|1|464|266340|Buffer access - 	disk %|5.52|02-NOV-15 03.00.00.000000 PM
+37|1|464|266338|Buffer access -  local cache %|92.93|02-NOV-15 03.00.00.000000 PM
